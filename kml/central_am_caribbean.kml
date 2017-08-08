@@ -2,6 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
 <Schema name="central_am_caribbean" id="central_am_caribbean">
+	<SimpleField name="ogc_fid" type="int"></SimpleField>
 	<SimpleField name="accuracy" type="string"></SimpleField>
 	<SimpleField name="ns_average_dip" type="string"></SimpleField>
 	<SimpleField name="ns_is_active" type="int"></SimpleField>
@@ -25,6 +26,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">1</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(75,60,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -43,6 +45,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">2</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,60,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -59,6 +62,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">3</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -76,6 +80,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">4</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -94,6 +99,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">5</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -112,6 +118,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">6</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -129,6 +136,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">7</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -147,6 +155,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">8</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -163,6 +172,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">9</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -179,6 +189,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">10</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -194,6 +205,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">11</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -209,6 +221,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">12</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -223,6 +236,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">13</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -237,6 +251,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">14</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -251,6 +266,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">15</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -265,6 +281,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">16</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -280,6 +297,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">17</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -295,6 +313,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">18</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(70,90,45)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -314,6 +333,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">19</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,80,90)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -329,6 +349,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">20</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -345,6 +366,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">21</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -362,6 +384,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">22</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -374,6 +397,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">23</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -386,6 +410,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">24</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,60,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -405,6 +430,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">25</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -420,10 +446,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">26</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
-		<SimpleData name="ns_name">West-Central Motagua Fault</SimpleData>
+		<SimpleData name="ns_name">Motagua Fault</SimpleData>
 		<SimpleData name="ns_last_movement">1976</SimpleData>
 		<SimpleData name="ns_strike_slip_rate">(16,14,22)</SimpleData>
 		<SimpleData name="fs_name">Motagua Fault Zone</SimpleData>
@@ -432,19 +459,20 @@
 		<SimpleData name="ns_exposure_quality">1</SimpleData>
 		<SimpleData name="ns_epistemic_quality">1</SimpleData>
 	</SchemaData></ExtendedData>
-      <LineString><coordinates>-90.4282391343062,14.8470472471634 -90.4063043522646,14.8461138521829 -90.3909033350865,14.8456471546926 -90.3703686455156,14.8456471546926 -90.3470337710033,14.8461138521829 -90.3330328462959,14.8447137597122 -90.32183210653,14.8433136672414 -90.3022308119397,14.8456471546926 -90.270495382603,14.8465805496731 -90.2522941804834,14.8437803647317 -90.2354930708345,14.8447137597122 -90.2200920536564,14.8447137597122 -90.181356161966,14.8442470622219 -90.1664218422781,14.8512475245756 -90.145420455217,14.8535810120268 -90.1066845635266,14.8531143145366 -90.0842830839947,14.8563811969683 -90.0688820668166,14.8549811044976 -90.0436804023433,14.8591813819098 -90.0007442332407,14.8643150543025 -89.9657419214722,14.8741157015977 -89.9316730046843,14.8848497438733 -89.8994708778573,14.8951170886587 -89.8544345700485,14.9056177821893 -89.8257326743984,14.910751454582 -89.7949306400422,14.918451963171 -89.7692622780786,14.9245190305442 -89.5338133942494,15.0012907676897</coordinates></LineString>
+      <LineString><coordinates>-90.4282391343062,14.8470472471634 -90.4063043522646,14.8461138521829 -90.3909033350865,14.8456471546926 -90.3703686455156,14.8456471546926 -90.3470337710033,14.8461138521829 -90.3330328462959,14.8447137597122 -90.32183210653,14.8433136672414 -90.3022308119397,14.8456471546926 -90.270495382603,14.8465805496731 -90.2522941804834,14.8437803647317 -90.2354930708345,14.8447137597122 -90.2200920536564,14.8447137597122 -90.1817140240587,14.850330717799 -90.1664218422781,14.8512475245756 -90.1456590299455,14.856443908769 -90.1126489317394,14.8619415794916 -90.0928717742213,14.8630612893667 -90.0738921361154,14.8652398178237 -90.0548934145835,14.8684857963218 -90.0288960512054,14.8738580434431 -89.9788635315405,14.8836586907382 -89.9323887288698,14.8955856066565 -89.8955343948368,14.9069265377202 -89.8603989382614,14.9179043807078 -89.8321741920683,14.9257816624784 -89.8030421808116,14.9356293436241 -89.7528006218111,14.9557723199796 -89.6587541179896,14.9861442982789 -89.6018545547165,15.0044596141359 -89.5684517494339,15.0196046271783 -89.3913123611908,15.0972656221674 -89.3063165648317,15.138599606215 -89.2314105373624,15.1752192763939 -89.1779199849974,15.2055329659267 -89.1298215469197,15.2287585454431 -89.0785835121893,15.2575588830832 -88.7961802481954,15.4113306623564 -88.7597540767522,15.4315583725905 -88.6642624806555,15.4743710077562 -88.6443674544834,15.4849381798989 -88.5983622227417,15.5028709578366 -88.5538424400416,15.5173413463903 -88.5311551846242,15.5210846398663 -88.4832972124214,15.5389078036873 -88.455217046637,15.5422589645955</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">27</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
-		<SimpleData name="ns_name">Eastern Motagua Fault</SimpleData>
+		<SimpleData name="ns_name">Los Amates Fault</SimpleData>
 		<SimpleData name="ns_strike_slip_rate">(20,18,22)</SimpleData>
 		<SimpleData name="fs_name">Motagua Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
-		<SimpleData name="reference">Franco et al., 2012</SimpleData>
+		<SimpleData name="reference">Mueller 1979 PhD thesis</SimpleData>
 		<SimpleData name="ns_exposure_quality">1</SimpleData>
 		<SimpleData name="ns_epistemic_quality">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -453,23 +481,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
-		<SimpleData name="accuracy">100000</SimpleData>
-		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
-		<SimpleData name="ns_is_active">1</SimpleData>
-		<SimpleData name="ns_name">Central Motagua Fault</SimpleData>
-		<SimpleData name="ns_last_movement">1976</SimpleData>
-		<SimpleData name="ns_strike_slip_rate">(18,14,22)</SimpleData>
-		<SimpleData name="fs_name">Motagua Fault Zone</SimpleData>
-		<SimpleData name="slip_type">Sinistral</SimpleData>
-		<SimpleData name="reference">Franco et al., 2012</SimpleData>
-		<SimpleData name="ns_exposure_quality">1</SimpleData>
-		<SimpleData name="ns_epistemic_quality">1</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-89.546180877741,15.0352430101051 -89.5181790283263,15.0455103548906 -89.4915772713822,15.0562443971662 -89.4327733876112,15.078645876698 -89.394504193411,15.0931134988957 -89.3627687640743,15.1071144236031 -89.3086318552057,15.1318493905861 -89.2745629384178,15.1477171052545 -89.2568284337884,15.1579844500399 -89.2232262144907,15.1780524421205 -89.1970911550369,15.1948535517693 -89.1616221457782,15.2135214513792 -89.1382872712659,15.2251888886353 -89.0953511021632,15.2457235782062 -89.0729496226314,15.2583244104428 -89.0589486979241,15.269991847699</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">29</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -487,6 +499,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">30</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -504,6 +517,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">31</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -521,6 +535,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">32</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -539,6 +554,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">33</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -557,6 +573,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">34</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -574,6 +591,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">35</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -591,6 +609,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">36</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
 		<SimpleData name="ns_name">Tonala Fault</SimpleData>
@@ -607,6 +626,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">37</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -624,6 +644,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">38</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Jalapa Fault</SimpleData>
@@ -640,6 +661,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">39</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">San Pedro Fault</SimpleData>
@@ -656,6 +678,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">40</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">West Monjas Fault</SimpleData>
@@ -672,6 +695,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">41</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">East Monjas Fault</SimpleData>
@@ -688,6 +712,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">42</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Jilotepeque Fault</SimpleData>
@@ -705,6 +730,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">43</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Ipala Fault</SimpleData>
@@ -722,6 +748,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">44</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Metapan Fault</SimpleData>
@@ -739,6 +766,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">45</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Ocotepeque Fault</SimpleData>
@@ -756,6 +784,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">46</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">El Corpus Fault</SimpleData>
@@ -772,6 +801,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">47</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">San Marcos Fault</SimpleData>
@@ -788,6 +818,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">48</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Corquin Fault</SimpleData>
@@ -804,6 +835,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">49</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Cerro Las Minas Fault</SimpleData>
@@ -820,6 +852,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">50</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Gracias Fault</SimpleData>
@@ -836,6 +869,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">51</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Erandique Fault</SimpleData>
@@ -852,6 +886,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">52</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">San Juan Fault</SimpleData>
@@ -868,6 +903,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">53</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Santa Barbara Fault</SimpleData>
@@ -884,6 +920,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">54</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Masaguara Fault</SimpleData>
@@ -900,6 +937,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">55</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Marcala Fault</SimpleData>
@@ -916,6 +954,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">56</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_name">Western Motagua Fault</SimpleData>
@@ -930,6 +969,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">57</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="ns_name">Velasco Suarez Thrust</SimpleData>
@@ -946,6 +986,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">58</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="ns_name">Chancala Thrust</SimpleData>
@@ -962,6 +1003,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">59</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="ns_name">Sibal Thrust</SimpleData>
@@ -978,6 +1020,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">60</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="ns_name">Vallescondida Thrust</SimpleData>
@@ -994,6 +1037,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">61</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="ns_name">Taniperlas Thrust</SimpleData>
@@ -1010,6 +1054,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">62</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Choloma Fault</SimpleData>
@@ -1027,6 +1072,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">63</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">San Pedro Sula Fault</SimpleData>
@@ -1044,6 +1090,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">64</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Mezapa Fault</SimpleData>
@@ -1061,6 +1108,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">65</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Pajuiles Fault</SimpleData>
@@ -1078,6 +1126,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">66</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">El Progreso Fault</SimpleData>
@@ -1095,6 +1144,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">67</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">El Negrito Fault</SimpleData>
@@ -1112,6 +1162,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">68</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Portillo de Gonzalez Fault</SimpleData>
@@ -1129,6 +1180,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">69</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,40,70)</SimpleData>
 		<SimpleData name="ns_name">Yojoa Fault</SimpleData>
@@ -1146,6 +1198,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">70</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(80,75,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1164,6 +1217,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">71</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">50,70,40)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1182,6 +1236,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">72</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1200,6 +1255,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">73</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1218,6 +1274,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">74</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1236,6 +1293,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">75</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1254,6 +1312,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">76</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1272,6 +1331,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">77</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,70,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1286,6 +1346,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">78</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,70,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1302,6 +1363,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">79</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1320,6 +1382,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">80</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1338,6 +1401,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">81</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Pie de la Cuesta Fault</SimpleData>
@@ -1354,6 +1418,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">82</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Valle Arriba Fault</SimpleData>
@@ -1369,6 +1434,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">83</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">Salalica Fault</SimpleData>
@@ -1385,6 +1451,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">84</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,35,80)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1403,6 +1470,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">85</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,35,80)</SimpleData>
 		<SimpleData name="ns_name">Trujillo Fault</SimpleData>
@@ -1420,6 +1488,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">86</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,35,80)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1438,6 +1507,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">87</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(45,35,60)</SimpleData>
 		<SimpleData name="ns_name">Cayo Sierra Fault</SimpleData>
@@ -1453,6 +1523,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">88</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(80,70,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1471,6 +1542,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">89</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_name">San Vicente Fault</SimpleData>
@@ -1488,6 +1560,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">90</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1506,6 +1579,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">91</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1523,6 +1597,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">92</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,60,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1540,6 +1615,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">93</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1558,6 +1634,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">94</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1573,6 +1650,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">95</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1590,6 +1668,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">96</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(75,50,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1609,6 +1688,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">97</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(80,65,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1627,6 +1707,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">98</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1643,6 +1724,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">99</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">90</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1658,6 +1740,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">100</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(80,60,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1675,10 +1758,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">101</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(80,60,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
-		<SimpleData name="ns_name">Tipitapa Fault</SimpleData>
+		<SimpleData name="ns_name">Cofradia Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">W</SimpleData>
 		<SimpleData name="ns_downthrown_side_id">W</SimpleData>
 		<SimpleData name="ns_net_slip_rate">(1., 0.1, 3.)</SimpleData>
@@ -1692,6 +1776,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">102</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1706,6 +1791,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">103</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Rio Sucio Fault</SimpleData>
@@ -1717,6 +1803,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">104</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(20,10,45)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1733,6 +1820,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">105</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1745,6 +1833,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">106</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(20,10,35)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1759,6 +1848,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">107</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(20,10,35)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1773,6 +1863,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">108</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_name">Siquirres-Matina Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">S</SimpleData>
@@ -1789,6 +1880,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">109</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1805,6 +1897,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">110</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_name">Penas Blancas Fault</SimpleData>
 		<SimpleData name="reference">Montero et al., 1998</SimpleData>
@@ -1814,6 +1907,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">111</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Jabillos Fault</SimpleData>
@@ -1824,6 +1918,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">112</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1836,6 +1931,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">113</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(20,15,35)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -1852,6 +1948,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">114</SimpleData>
 		<SimpleData name="accuracy"></SimpleData>
 		<SimpleData name="ns_name">St. Bran's Burg Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
@@ -1862,6 +1959,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">115</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">DEM</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1870,6 +1968,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">116</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Duanvale Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">S</SimpleData>
@@ -1881,6 +1980,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">117</SimpleData>
 		<SimpleData name="ns_name">Duanvale Fault East</SimpleData>
 		<SimpleData name="slip_type">Sinistral-Reverse</SimpleData>
 		<SimpleData name="reference">Mann et al., 2007</SimpleData>
@@ -1890,6 +1990,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">118</SimpleData>
 		<SimpleData name="ns_dip_dir">W</SimpleData>
 		<SimpleData name="slip_type">Reverse</SimpleData>
 		<SimpleData name="reference">DEM</SimpleData>
@@ -1899,6 +2000,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">119</SimpleData>
 		<SimpleData name="ns_name">Beeston Spring Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">W</SimpleData>
 		<SimpleData name="slip_type">Reverse</SimpleData>
@@ -1909,6 +2011,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">120</SimpleData>
 		<SimpleData name="ns_name">Savanna La Mar Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">W</SimpleData>
 		<SimpleData name="slip_type">Reverse</SimpleData>
@@ -1919,6 +2022,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">121</SimpleData>
 		<SimpleData name="ns_name">New Market Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">W</SimpleData>
 		<SimpleData name="slip_type">Sinistral-Reverse</SimpleData>
@@ -1929,6 +2033,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">122</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Pondside Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">E</SimpleData>
@@ -1940,6 +2045,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">123</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Siloah Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
@@ -1950,6 +2056,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">124</SimpleData>
 		<SimpleData name="ns_dip_dir">W</SimpleData>
 		<SimpleData name="slip_type">Reverse</SimpleData>
 		<SimpleData name="reference">DEM</SimpleData>
@@ -1959,6 +2066,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">125</SimpleData>
 		<SimpleData name="ns_average_dip">65</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Santa Cruz Fault</SimpleData>
@@ -1971,6 +2079,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">126</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Siloah Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
@@ -1981,6 +2090,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">127</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Spur Tree Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">E</SimpleData>
@@ -1992,6 +2102,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">128</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Rio Minho-Crawle River Fault</SimpleData>
 		<SimpleData name="ns_strike_slip_rate">(5,3,7)</SimpleData>
@@ -2004,6 +2115,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">129</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Cavaliers Fault</SimpleData>
 		<SimpleData name="ns_strike_slip_rate">(5,3,7)</SimpleData>
@@ -2016,6 +2128,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">130</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Plantain Garden Fault</SimpleData>
 		<SimpleData name="ns_net_slip_rate"></SimpleData>
@@ -2030,6 +2143,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">131</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">South Coast Fault</SimpleData>
 		<SimpleData name="ns_downthrown_side_id">S</SimpleData>
@@ -2043,6 +2157,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">132</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Enriquillo Fault</SimpleData>
 		<SimpleData name="ns_strike_slip_rate">(5,4,6)</SimpleData>
@@ -2055,6 +2170,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">133</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Enriquillo Fault</SimpleData>
 		<SimpleData name="ns_strike_slip_rate">(6,5,7)</SimpleData>
@@ -2067,6 +2183,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">134</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Enriquillo Fault</SimpleData>
 		<SimpleData name="ns_strike_slip_rate">(6,5,7)</SimpleData>
@@ -2081,6 +2198,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">135</SimpleData>
 		<SimpleData name="ns_average_dip">90</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Monte Cristi Fault</SimpleData>
@@ -2092,6 +2210,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">136</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">[rename]</SimpleData>
 		<SimpleData name="fs_name">Septentrional Fault</SimpleData>
@@ -2102,6 +2221,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">137</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(80,70,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2118,6 +2238,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">138</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,80)</SimpleData>
 		<SimpleData name="ns_name">South Samana Fault</SimpleData>
@@ -2132,6 +2253,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">139</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">90</SimpleData>
 		<SimpleData name="ns_name">Cano Grande Estero Fault</SimpleData>
@@ -2144,6 +2266,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">140</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">90</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2158,6 +2281,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">141</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_name">Septentrional Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
@@ -2170,6 +2294,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">142</SimpleData>
 		<SimpleData name="accuracy">200000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Septentrional Fault</SimpleData>
@@ -2183,6 +2308,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">143</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(30,10,50)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2197,6 +2323,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">144</SimpleData>
 		<SimpleData name="ns_average_dip">(20,15,40)</SimpleData>
 		<SimpleData name="ns_dip_dir">S</SimpleData>
 		<SimpleData name="ns_downthrown_side_id">N</SimpleData>
@@ -2208,6 +2335,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">145</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(20,15,40)</SimpleData>
 		<SimpleData name="ns_name">Matheux Thrust</SimpleData>
@@ -2223,6 +2351,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">146</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(15,10,30)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2239,6 +2368,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">147</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(15,10,30)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2255,6 +2385,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">148</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(30,15,50)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -2270,6 +2401,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">149</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(20,10,50)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2286,6 +2418,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">150</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(20,15,40)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2302,6 +2435,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">151</SimpleData>
 		<SimpleData name="ns_average_dip">(20,15,40)</SimpleData>
 		<SimpleData name="ns_name">El Rodeo Thrust</SimpleData>
 		<SimpleData name="ns_dip_dir">N</SimpleData>
@@ -2316,6 +2450,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">152</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(20,15,40)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2332,6 +2467,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">153</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(20,15,50)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2349,6 +2485,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">154</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,30,70)</SimpleData>
 		<SimpleData name="ns_name">Bonao Fault</SimpleData>
@@ -2364,6 +2501,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">155</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">DEM</SimpleData>
 		<SimpleData name="ns_exposure_quality">1</SimpleData>
@@ -2374,6 +2512,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">156</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">DEM</SimpleData>
@@ -2385,6 +2524,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">157</SimpleData>
 		<SimpleData name="ns_name">Cerro Goden Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Mann et al., 2005</SimpleData>
@@ -2394,6 +2534,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">158</SimpleData>
 		<SimpleData name="fs_name">Great Southern Puerto Rico Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Mann et al., 2005</SimpleData>
@@ -2403,6 +2544,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">159</SimpleData>
 		<SimpleData name="ns_name">Cerrillos Fault</SimpleData>
 		<SimpleData name="fs_name">Great Southern Puerto Rico Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
@@ -2413,6 +2555,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">160</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">South Lajas Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
@@ -2425,6 +2568,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">161</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
 		<SimpleData name="ns_name">Cruce Peralejo Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
@@ -2437,6 +2581,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">162</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_name">Nipa-Guacanayabo Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
@@ -2447,6 +2592,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">163</SimpleData>
 		<SimpleData name="ns_name">Pinar del Rio Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral-Reverse</SimpleData>
 		<SimpleData name="reference">Garcia et al 2003 BSSA</SimpleData>
@@ -2456,6 +2602,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">164</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">North Caribbean Megathrust</SimpleData>
 		<SimpleData name="ns_dip_dir">S</SimpleData>
@@ -2467,6 +2614,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">165</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_name">North Cuban Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">S</SimpleData>
@@ -2478,6 +2626,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">166</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Cay Sal Fault</SimpleData>
@@ -2491,6 +2640,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">167</SimpleData>
 		<SimpleData name="accuracy">200000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Septentrional Fault</SimpleData>
@@ -2502,6 +2652,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">168</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">West Mona Rift Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">E</SimpleData>
@@ -2514,6 +2665,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">169</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">East Mona Rift Fault</SimpleData>
@@ -2526,6 +2678,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">170</SimpleData>
 		<SimpleData name="ns_name">West Yuma Rift Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">E</SimpleData>
 		<SimpleData name="ns_downthrown_side_id">E</SimpleData>
@@ -2538,6 +2691,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">171</SimpleData>
 		<SimpleData name="ns_name">East Yuma Rift Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">W</SimpleData>
 		<SimpleData name="ns_downthrown_side_id">W</SimpleData>
@@ -2550,6 +2704,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">172</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_dip_dir">NE</SimpleData>
 		<SimpleData name="ns_downthrown_side_id">SW</SimpleData>
@@ -2562,6 +2717,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">173</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Muertos Thrust</SimpleData>
 		<SimpleData name="ns_dip_dir">N</SimpleData>
@@ -2574,6 +2730,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">174</SimpleData>
 		<SimpleData name="ns_dip_dir">N</SimpleData>
 		<SimpleData name="ns_downthrown_side_id">N</SimpleData>
 		<SimpleData name="fs_name">Anegada Rift</SimpleData>
@@ -2585,6 +2742,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">175</SimpleData>
 		<SimpleData name="ns_name">St. Croix Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">N</SimpleData>
 		<SimpleData name="ns_downthrown_side_id">N</SimpleData>
@@ -2597,6 +2755,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">176</SimpleData>
 		<SimpleData name="ns_name">Sombrero Fault</SimpleData>
 		<SimpleData name="ns_dip_dir">S</SimpleData>
 		<SimpleData name="ns_downthrown_side_id">S</SimpleData>
@@ -2609,6 +2768,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">177</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Enriquillo-Plantain Garden Fault</SimpleData>
 		<SimpleData name="fs_name">Enriquillo-Plantain Garden Fault</SimpleData>
@@ -2619,6 +2779,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">178</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Oriente Fault</SimpleData>
@@ -2633,6 +2794,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">179</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
 		<SimpleData name="ns_name">Santiago Deformed Belt</SimpleData>
 		<SimpleData name="ns_dip_dir">N</SimpleData>
@@ -2648,9 +2810,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">180</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Oriente Fault</SimpleData>
+		<SimpleData name="ns_strike_slip_rate">(</SimpleData>
 		<SimpleData name="fs_name">Oriente Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Leroy et al., 2015 Terra Nova</SimpleData>
@@ -2661,6 +2825,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">181</SimpleData>
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Walton Fault Zone</SimpleData>
@@ -2673,6 +2838,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">182</SimpleData>
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Swan Islands Transform</SimpleData>
@@ -2686,6 +2852,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">183</SimpleData>
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Swan Islands Transform</SimpleData>
@@ -2699,6 +2866,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">184</SimpleData>
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Cayman Spreading Center</SimpleData>
@@ -2709,6 +2877,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">186</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Antilles Thrust</SimpleData>
 		<SimpleData name="ns_dip_dir">W</SimpleData>
@@ -2721,6 +2890,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">187</SimpleData>
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="ns_average_dip">(20,10,50)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2739,6 +2909,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">188</SimpleData>
 		<SimpleData name="accuracy">50000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2753,6 +2924,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">189</SimpleData>
 		<SimpleData name="accuracy">60000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2767,6 +2939,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">190</SimpleData>
 		<SimpleData name="accuracy">60000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Falla Longitudinal-Boca Chica</SimpleData>
@@ -2777,6 +2950,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">191</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
@@ -2787,6 +2961,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">192</SimpleData>
 		<SimpleData name="accuracy">60000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2801,6 +2976,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">193</SimpleData>
 		<SimpleData name="accuracy">30000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2811,11 +2987,12 @@
 		<SimpleData name="ns_exposure_quality">2</SimpleData>
 		<SimpleData name="ns_epistemic_quality">2</SimpleData>
 	</SchemaData></ExtendedData>
-      <LineString><coordinates>-80.7050891874691,7.43890457706975 -80.6983630917594,7.43587783400041 -80.6887784053732,7.43386000528751 -80.684658671751,7.43142179559276 -80.680791166718,7.43007657645083 -80.6745695281865,7.42780651914882 -80.6692727278152,7.42595684282866 -80.665825603764,7.42477977607947 -80.6585950508761,7.42276194736657 -80.6544753172539,7.42133265202827 -80.6510281932027,7.42023966147545 -80.6464040024023,7.4183899851553 -80.6437976403148,7.41738107079885 -80.6399301352818,7.41696068981699 -80.6356422492669,7.41679253742425 -80.6311021346629,7.41418617533676 -80.6265620200588,7.41183204183838</coordinates></LineString>
+      <LineString><coordinates>-80.7050891874691,7.43890457706975 -80.6983630917594,7.43587783400041 -80.6887784053732,7.43386000528751 -80.684658671751,7.43142179559276 -80.680791166718,7.43007657645083 -80.6745695281865,7.42780651914882 -80.6692727278152,7.42595684282866 -80.665825603764,7.42477977607947 -80.6585950508761,7.42276194736657 -80.6544753172539,7.42133265202827 -80.6510281932027,7.42023966147545 -80.6464040024023,7.41838998515529 -80.6437976403148,7.41738107079885 -80.6399301352818,7.41696068981699 -80.6356422492669,7.41679253742425 -80.6311021346629,7.41418617533676 -80.6265620200588,7.41183204183838</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">194</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2830,6 +3007,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">195</SimpleData>
 		<SimpleData name="accuracy">70000</SimpleData>
 		<SimpleData name="ns_average_dip">(80,50,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2846,6 +3024,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">196</SimpleData>
 		<SimpleData name="accuracy">70000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -2856,11 +3035,12 @@
 		<SimpleData name="ns_epistemic_quality">2</SimpleData>
 		<SimpleData name="notes">Interesting expression in DEM. Unclear if it's active but given the inferred kinematics and lack of similar topographic lineaments in the area, it probably is.</SimpleData>
 	</SchemaData></ExtendedData>
-      <LineString><coordinates>-80.9373496799432,7.89064598016963 -80.9304554318408,7.89115043734786 -80.9242337933094,7.88963706581318 -80.9164987832433,7.88845999906399 -80.9062414872861,7.88610586556561 -80.9028784394312,7.88745108470754 -80.8953115817579,7.8864421703511 -80.8912759243321,7.88526510360191 -80.8842135238369,7.88391988445997 -80.8764785137708,7.88324727488901 -80.8702568752394,7.88223836053256 -80.8623537127805,7.88156575096159 -80.8552913122854,7.88223836053256 -80.8460429306846,7.88122944617611 -80.8399894445459,7.88207020813982 -80.8315818249089,7.88358357967449 -80.8230060528791,7.88274281771078 -80.813925823671,7.88207020813982 -80.8038366801065,7.87971607464144 -80.7887029647598,7.87904346507047 -80.7816405642646,7.87837085549951 -80.7712151159147,7.87769824592854 -80.7594444484228,7.87736194114306 -80.745655952218,7.87399889328823 -80.7348941990825,7.87097215021888 -80.7184152645939,7.86727279757857 -80.7056356827455,7.86458235929471 -80.6985732822504,7.86323714015278 -80.6770497759795,7.8608830066544 -80.6588893175634,7.85953778751247 -80.6447645165731,7.85751995879957 -80.6346753730086,7.8568473492286 -80.6198779624474,7.85415691094474 -80.6057531614571,7.85079386308991 -80.5929735796088,7.84877603437701 -80.5721226829088,7.84608559609315 -80.5593431010605,7.84541298652219 -80.5472361287831,7.84675820566412 -80.5337839373638,7.84810342480605 -80.5176413076606,7.84877603437701 -80.5041891162413,7.85012125351895 -80.4887190961091,7.84877603437701 -80.4725764664059,7.84743081523508 -80.4557612271317,7.84406776738025 -80.4376007687157,7.84070471952542 -80.4254937964383,7.84137732909639 -80.4167498720157,7.83801428124156</coordinates></LineString>
+      <LineString><coordinates>-80.9373496799432,7.89064598016963 -80.9304554318408,7.89115043734786 -80.9242337933094,7.88963706581318 -80.9164987832433,7.88845999906399 -80.9062414872861,7.88610586556561 -80.9028784394312,7.88745108470755 -80.8953115817579,7.8864421703511 -80.8912759243321,7.88526510360191 -80.8842135238369,7.88391988445997 -80.8764785137708,7.88324727488901 -80.8702568752394,7.88223836053256 -80.8623537127805,7.88156575096159 -80.8552913122854,7.88223836053256 -80.8460429306846,7.88122944617611 -80.8399894445459,7.88207020813982 -80.8315818249089,7.88358357967449 -80.8230060528791,7.88274281771078 -80.813925823671,7.88207020813982 -80.8038366801065,7.87971607464144 -80.7887029647598,7.87904346507047 -80.7816405642646,7.87837085549951 -80.7712151159147,7.87769824592854 -80.7594444484228,7.87736194114306 -80.745655952218,7.87399889328823 -80.7348941990825,7.87097215021888 -80.7184152645939,7.86727279757857 -80.7056356827455,7.86458235929471 -80.6985732822504,7.86323714015278 -80.6770497759795,7.8608830066544 -80.6588893175634,7.85953778751246 -80.6447645165731,7.85751995879957 -80.6346753730086,7.8568473492286 -80.6198779624474,7.85415691094474 -80.6057531614571,7.85079386308991 -80.5929735796088,7.84877603437701 -80.5721226829088,7.84608559609315 -80.5593431010605,7.84541298652219 -80.5472361287831,7.84675820566412 -80.5337839373638,7.84810342480605 -80.5176413076606,7.84877603437701 -80.5041891162413,7.85012125351895 -80.4887190961091,7.84877603437701 -80.4725764664059,7.84743081523508 -80.4557612271317,7.84406776738025 -80.4376007687157,7.84070471952542 -80.4254937964383,7.84137732909639 -80.4167498720157,7.83801428124156</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">197</SimpleData>
 		<SimpleData name="accuracy">75000</SimpleData>
 		<SimpleData name="ns_average_dip">(80,70,90)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -2876,6 +3056,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">198</SimpleData>
 		<SimpleData name="accuracy">60000</SimpleData>
 		<SimpleData name="ns_average_dip">(80,70,90)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -2891,6 +3072,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">199</SimpleData>
 		<SimpleData name="accuracy">150000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2906,6 +3088,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">200</SimpleData>
 		<SimpleData name="accuracy">150000</SimpleData>
 		<SimpleData name="ns_average_dip">(80,70,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2923,6 +3106,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">203</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">North Caribbean Megathrust</SimpleData>
 		<SimpleData name="ns_dip_dir">S</SimpleData>
@@ -2934,6 +3118,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">204</SimpleData>
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="ns_average_dip">(70,50,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -2949,6 +3134,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">205</SimpleData>
 		<SimpleData name="accuracy">200000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -2966,6 +3152,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">206</SimpleData>
 		<SimpleData name="accuracy">200000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -2982,6 +3169,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">207</SimpleData>
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,70,90)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -2998,6 +3186,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">208</SimpleData>
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="ns_average_dip">(80,70,90)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3015,6 +3204,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">209</SimpleData>
 		<SimpleData name="accuracy">400000</SimpleData>
 		<SimpleData name="ns_average_dip">(70,60,90)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3032,6 +3222,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">210</SimpleData>
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3047,6 +3238,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">211</SimpleData>
 		<SimpleData name="accuracy">200000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3062,6 +3254,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">212</SimpleData>
 		<SimpleData name="accuracy">200000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3076,6 +3269,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">213</SimpleData>
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3088,6 +3282,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">214</SimpleData>
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3102,6 +3297,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">215</SimpleData>
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3116,6 +3312,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">216</SimpleData>
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="ns_average_dip">(20,10,50)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3133,6 +3330,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">217</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3149,6 +3347,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">218</SimpleData>
 		<SimpleData name="accuracy">80000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3164,6 +3363,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">219</SimpleData>
 		<SimpleData name="accuracy">80000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3179,6 +3379,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">220</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3194,6 +3395,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">221</SimpleData>
 		<SimpleData name="accuracy">80000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3209,6 +3411,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">222</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(70,50,90)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3225,6 +3428,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">223</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(70,50,90)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3241,6 +3445,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">224</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(70,50,90)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3256,6 +3461,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">225</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,80)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3271,6 +3477,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">226</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_dip_dir">NE</SimpleData>
@@ -3285,6 +3492,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">227</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3301,6 +3509,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">228</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(75,70,80)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3318,6 +3527,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">229</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3334,6 +3544,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">230</SimpleData>
 		<SimpleData name="accuracy">750000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3350,6 +3561,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">231</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3365,6 +3577,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">232</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3380,6 +3593,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">233</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3395,6 +3609,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">234</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3410,6 +3625,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">235</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -3426,6 +3642,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">236</SimpleData>
 		<SimpleData name="accuracy">700000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3439,6 +3656,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">237</SimpleData>
 		<SimpleData name="accuracy">700000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3452,6 +3670,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">238</SimpleData>
 		<SimpleData name="accuracy">700000</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,70)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3464,6 +3683,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">239</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Oriente Fault</SimpleData>
@@ -3477,6 +3697,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">240</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,70,90)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3494,6 +3715,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">241</SimpleData>
 		<SimpleData name="accuracy">150000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3510,6 +3732,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">242</SimpleData>
 		<SimpleData name="accuracy">75000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3526,6 +3749,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">243</SimpleData>
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Rio Gatun Fault</SimpleData>
@@ -3537,6 +3761,115 @@
 		<SimpleData name="notes">Interpreted geometry (the whole fault segment is underwater)</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-80.0774657602824,9.03154444020468 -80.0679227711418,9.04061027988821 -80.0450195972044,9.05540191305609 -80.0154363308687,9.07305644296614 -79.9710614313651,9.09691391581755 -79.9557926487401,9.12267998649708 -79.9500668552558,9.13174582618061 -79.9429096134004,9.155126149575 -79.9324123253458,9.17230353002802 -79.9238236351192,9.17946077188344 -79.8994890128108,9.19329810613726 -79.8832659312719,9.20474969310594 -79.8732457926743,9.21381553278948</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">244</SimpleData>
+		<SimpleData name="accuracy">500000</SimpleData>
+		<SimpleData name="ns_average_dip">(60,40,70)</SimpleData>
+		<SimpleData name="ns_is_active">1</SimpleData>
+		<SimpleData name="ns_name">Tela Fault</SimpleData>
+		<SimpleData name="ns_dip_dir">S</SimpleData>
+		<SimpleData name="ns_downthrown_side_id">S</SimpleData>
+		<SimpleData name="slip_type">Normal</SimpleData>
+		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
+		<SimpleData name="ns_exposure_quality">2</SimpleData>
+		<SimpleData name="ns_epistemic_quality">1</SimpleData>
+		<SimpleData name="notes">Good seismic profiles in Rogers and Mann 2007</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-86.8337985986305,16.1338191954136 -86.780595902825,16.1547202544801 -86.755894651201,16.1661208321527 -86.6931914740017,16.1927221800554 -86.6760906074928,16.204122757728 -86.6323883930812,16.2060228540068 -86.5981866600633,16.2193235279582 -86.5753855047181,16.2307241056308 -86.5430838679791,16.2459248758609 -86.5145824237976,16.261125646091 -86.4917812684524,16.2782265125999 -86.4423787652044,16.2991275716664 -86.4062769359078,16.310528149339 -86.3777754917263,16.3162284381753 -86.3511741438236,16.3143283418965 -86.3055718331332,16.3200286307328 -86.2713701001153,16.335229400963 -86.2447687522126,16.342829786078 -86.2219675968674,16.3485300749143 -86.1991664415222,16.3466299786356 -86.1554642271105,16.3485300749143 -86.1307629754866,16.3637308451445 -86.1117620126989,16.3808317116534 -86.0832605685174,16.3808317116534 -86.0357581615482,16.3770315190959 -85.9692547917913,16.3656309414232 -85.9236524811009,16.3656309414232 -85.8723498815742,16.3884320967685 -85.8324478597201,16.4131333483924 -85.7963460304235,16.4340344074589 -85.7621442974057,16.4416347925739 -85.718442082994,16.4625358516404 -85.7032413127639,16.4815368144281 -85.6956409276488,16.4948374883794 -85.6937408313701,16.5347395102335 -85.6747398685824,16.5670411469726</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">245</SimpleData>
+		<SimpleData name="accuracy">50000</SimpleData>
+		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
+		<SimpleData name="ns_is_active">1</SimpleData>
+		<SimpleData name="ns_name">Flowers Bay Fault</SimpleData>
+		<SimpleData name="slip_type">Sinistral</SimpleData>
+		<SimpleData name="reference">Cox et al., 2008</SimpleData>
+		<SimpleData name="ns_exposure_quality">2</SimpleData>
+		<SimpleData name="ns_epistemic_quality">1</SimpleData>
+		<SimpleData name="notes">Cox et al. map southwestern offshore portion as normal, but unclear why</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-86.5969735937438,16.2655681770822 -86.5904665522256,16.2703005709136 -86.5828947220953,16.2751512745909 -86.5772158494976,16.280593527497 -86.5733116245867,16.2841428228706 -86.5640834566154,16.2920695825382 -86.5568665560225,16.2989315535938 -86.5517792326537,16.3042554966542 -86.5481116274343,16.3091062003314 -86.5408947268414,16.3178611289195 -86.5380552905425,16.3235400015172 -86.5335595164026,16.3300470430355 -86.528945432417,16.333596338409 -86.5232665598193,16.3366723943995 -86.5201905038289,16.338565351932 -86.5132102229275,16.343534365455 -86.5071764207924,16.3487399986696 -86.5020890974236,16.3531174629637 -86.497475013438,16.3593878847903</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">246</SimpleData>
+		<SimpleData name="accuracy">35000</SimpleData>
+		<SimpleData name="ns_average_dip">(60,40,70)</SimpleData>
+		<SimpleData name="ns_is_active">2</SimpleData>
+		<SimpleData name="ns_name">Sebaco Fault</SimpleData>
+		<SimpleData name="ns_dip_dir">W</SimpleData>
+		<SimpleData name="ns_downthrown_side_id">W</SimpleData>
+		<SimpleData name="slip_type">Normal</SimpleData>
+		<SimpleData name="reference">DEM</SimpleData>
+		<SimpleData name="ns_exposure_quality">1</SimpleData>
+		<SimpleData name="ns_epistemic_quality">2</SimpleData>
+		<SimpleData name="notes">Very clear scarp in topopgraphy data and a hanging-wall basin that looks to be actively subsiding (no erosion despite external drainage, river near fault). Nonetheless, no clear quaternary scarps observed.</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-86.0765732257415,12.9667582828059 -86.0763675499389,12.9609993603332 -86.0763675499389,12.9550347620579 -86.075339170926,12.9494815153878 -86.0747221435182,12.9443396203229 -86.0736937645052,12.9400204284684 -86.0724597096896,12.9365239398243 -86.0718426822819,12.9334388027854 -86.0720483580845,12.9310735310555 -86.0720483580845,12.9292224488322 -86.0723568717884,12.9275770424114 -86.0725625475909,12.9260344738919 -86.0730767370974,12.923977715866 -86.0731795749987,12.9222294715439 -86.0737966024065,12.9195556861102 -86.0736937645052,12.9173960901829 -86.0730767370974,12.9152364942557 -86.0731795749987,12.9140024394401 -86.0726653854923,12.9127683846245 -86.0719455201832,12.9108144644999 -86.0719455201832,12.909477571783 -86.0721511959858,12.9085520306713 -86.0722540338871,12.9069066242505 -86.0726653854923,12.9057754073363 -86.0728710612948,12.9045413525207 -86.0731795749987,12.9032044598038 -86.0734880887026,12.901559053383 -86.0742079540117,12.8997079711597 -86.0745164677156,12.8983710784428 -86.0749278193208,12.8969313478246 -86.0752363330247,12.8952859414039 -86.0757505225312,12.8940518865883 -86.076367549939,12.8920979664637 -86.0770874152481,12.8904525600429 -86.0778072805571,12.8887043157208 -86.0785271458662,12.8870589093001 -86.0788356595701,12.8861333681884 -86.080172552287,12.8847964754715 -86.0812009313,12.8837680964585 -86.0819207966091,12.882534041643 -86.082949175622,12.880477283617 -86.0836690409311,12.8792432288014 -86.0841832304376,12.8778034981833 -86.0848002578454,12.8767751191703 -86.0855201231545,12.8757467401573 -86.086034312661,12.8741013337365 -86.0864456642662,12.8723530894145 -86.0874740432791,12.8714275483028 -86.0880910706869,12.8703991692898 -86.0882967464895,12.8695764660794</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">247</SimpleData>
+		<SimpleData name="accuracy">100000</SimpleData>
+		<SimpleData name="ns_average_dip">(75,50,90)</SimpleData>
+		<SimpleData name="ns_is_active">1</SimpleData>
+		<SimpleData name="ns_name">Aeropuerto Fault</SimpleData>
+		<SimpleData name="ns_dip_dir">E</SimpleData>
+		<SimpleData name="ns_downthrown_side_id">E</SimpleData>
+		<SimpleData name="ns_strike_slip_rate">(2.,1.,5.)</SimpleData>
+		<SimpleData name="ns_vert_slip_rate">(0.6,0.3,0.9)</SimpleData>
+		<SimpleData name="slip_type">Sinistral-Reverse</SimpleData>
+		<SimpleData name="reference">Cowen et al., 2002</SimpleData>
+		<SimpleData name="ns_exposure_quality">2</SimpleData>
+		<SimpleData name="ns_epistemic_quality">1</SimpleData>
+		<SimpleData name="notes">Most rapid slip probably sinistral. Hard to locate trace on DEM.</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-86.1829931445002,12.1711661672022 -86.1824857823464,12.1688323012947 -86.1821813650541,12.1673102148333 -86.1823843099156,12.1649763489259 -86.1817754753311,12.1630483727414 -86.1811666407465,12.1595983100956 -86.1811666407465,12.1565541371729 -86.183094616931,12.1494510670197 -86.1856314276999,12.1434641936049 -86.1874579314536,12.1401156033899 -86.1918212459762,12.1330125332368 -86.194865418899,12.1278374392681 -86.1987213712678,12.1192122826535 -86.1999390404369,12.1154578027155 -86.2021714339136,12.1119062676389 -86.2051141344057,12.1034840558859 -86.2099848110821,12.0957721511482 -86.2172908260967,12.0846101837647 -86.2199291092965,12.0805512865344 -86.2247997859729,12.0730423266582 -86.2278439588957,12.0639098078899 -86.2286557383418,12.059647965798 -86.2274380691726,12.0549802339831 -86.2266262897266,12.0472683292454</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">248</SimpleData>
+		<SimpleData name="accuracy">50000</SimpleData>
+		<SimpleData name="ns_average_dip">(80,70,90)</SimpleData>
+		<SimpleData name="ns_is_active">1</SimpleData>
+		<SimpleData name="ns_name">Tiscapa Fault</SimpleData>
+		<SimpleData name="ns_dip_dir">E</SimpleData>
+		<SimpleData name="ns_downthrown_side_id">E</SimpleData>
+		<SimpleData name="ns_last_movement">1972</SimpleData>
+		<SimpleData name="ns_vert_slip_rate">(4.,,)</SimpleData>
+		<SimpleData name="slip_type">Sinistral-Normal</SimpleData>
+		<SimpleData name="reference">Freundt et al., 2010; Brown et al., 1973</SimpleData>
+		<SimpleData name="ns_exposure_quality">2</SimpleData>
+		<SimpleData name="ns_epistemic_quality">1</SimpleData>
+		<SimpleData name="notes">Source of the 1972 Managua Earthquake. Geology indicates mostly normal slip but '72 event was pure left lateral on a very steep plane.</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-86.2854802995668,12.1079488428393 -86.2850744098438,12.1116018503466 -86.2832479060901,12.1166754718846 -86.282436126644,12.1205314242534 -86.2816243471979,12.1241844317607 -86.2787831191367,12.1294609981602 -86.2757389462139,12.1339257851136 -86.2722888835681,12.137984682344 -86.2674182068917,12.1458995319432 -86.2584886329849,12.161120396557 -86.2528061768624,12.1704558601869 -86.2422530440635,12.1899385668926 -86.236976477664,12.1980563613533 -86.2312940215415,12.2077977147062 -86.2272351243111,12.2155096194439 -86.2231762270808,12.2220038550124 -86.2199291092965,12.2252509727967</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">249</SimpleData>
+		<SimpleData name="accuracy">50000</SimpleData>
+		<SimpleData name="ns_average_dip">(80,70,90)</SimpleData>
+		<SimpleData name="ns_is_active">1</SimpleData>
+		<SimpleData name="ns_name">Punta Huete Fault</SimpleData>
+		<SimpleData name="ns_dip_dir">E</SimpleData>
+		<SimpleData name="ns_downthrown_side_id">E</SimpleData>
+		<SimpleData name="slip_type">Sinistral-Normal</SimpleData>
+		<SimpleData name="reference">DEM; Brown et al., 1973</SimpleData>
+		<SimpleData name="ns_exposure_quality">2</SimpleData>
+		<SimpleData name="ns_epistemic_quality">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-86.1298215907824,12.3817214610271 -86.1322569291206,12.3758360600431 -86.1326628188437,12.3734007217049 -86.1336775431513,12.3697477141975 -86.1346922674589,12.3656888169672 -86.1355040469049,12.3610210851523 -86.1361128814895,12.3571651327834 -86.1371276057971,12.35270034583 -86.1375334955201,12.3494532280457 -86.1393599992738,12.3441766616463 -86.1436218413657,12.3384942055238 -86.1464630694269,12.3338264737089 -86.1495072423497,12.3285499073094 -86.1602633200101,12.3175908847874 -86.1635104377944,12.312720208111 -86.1722370668397,12.302167075312 -86.1781224678237,12.295875784605 -86.1846167033923,12.2895844938979 -86.194459529176,12.2759871881762 -86.1996346231447,12.2681738110078 -86.2031861582212,12.2624913548853</coordinates></LineString>
   </Placemark>
 </Folder>
 </Document></kml>
