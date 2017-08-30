@@ -2843,26 +2843,28 @@
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Swan Islands Transform</SimpleData>
+		<SimpleData name="ns_strike_slip_rate">(19,18,20)</SimpleData>
 		<SimpleData name="fs_name">Swan Islands Transform</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="ns_epistemic_quality">1</SimpleData>
 	</SchemaData></ExtendedData>
-      <LineString><coordinates>-88.2515903756178,16.0764999574779 -87.9601300938678,16.1957337091029 -87.7702393042428,16.2973032012279 -87.4125380493678,16.4342012123529 -87.1961508704928,16.5225225098529 -86.8296174858678,16.6505883912279 -86.4586680363678,16.7256614941029 -86.2334487277428,16.7874864023529 -85.9993972893678,16.8758076998529 -85.8183386294928,16.9288004783529 -85.5622068667428,17.0480342299779 -85.2442501957428,17.1981804357279 -85.1294325089928,17.2688374737279 -84.8556364867429,17.3571587712279 -84.6613296322429,17.4366479389779 -84.4846870372429,17.5028889121029 -84.3389568963679,17.5514656257279 -84.0784090687429,17.5912102096029 -83.8576058249929,17.6000423393529</coordinates></LineString>
+      <LineString><coordinates>-88.3819600933798,15.6406926152449 -87.9340561503154,15.9424439717367 -87.7069168699012,16.0440134638617 -87.4199877475256,16.1771866259078 -87.1142041907567,16.3139309614337 -86.8035435423154,16.4606210882033 -86.4772922817624,16.6548893616036 -86.2334487277428,16.7874864023529 -85.9993972893678,16.8758076998529 -85.8183386294928,16.9288004783529 -85.7229210151354,16.9732190229676</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
-		<SimpleData name="ogc_fid">183</SimpleData>
+		<SimpleData name="ogc_fid">261</SimpleData>
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Swan Islands Transform</SimpleData>
+		<SimpleData name="ns_strike_slip_rate">(13,12,14)</SimpleData>
 		<SimpleData name="fs_name">Swan Islands Transform</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="ns_epistemic_quality">1</SimpleData>
 	</SchemaData></ExtendedData>
-      <LineString><coordinates>-85.6151996452429,16.9464647378529 -85.4341409853679,16.9950414514779 -85.3237393634929,17.0082896461029 -85.1206003792429,17.0480342299779 -84.8512204218679,17.1098591382279 -84.7408187999929,17.1584358518529 -84.6436653727429,17.1893483059779 -84.5509280103679,17.2070125654779 -84.4272781938679,17.2467571493529 -84.3345408314929,17.2688374737279 -84.2020588852429,17.2688374737279 -83.9061825386179,17.3174141873529 -83.7295399436179,17.3483266414779 -83.6456347109929,17.3836551604779 -83.4115832726179,17.4366479389779 -83.1245390557429,17.4896407174779 -82.9390643309929,17.5470495608529 -82.7845020603679,17.5956262744779 -82.5239542327429,17.6574511827279 -82.3517277026179,17.7060278963529 -82.1574208481179,17.7634367397279 -81.9940264477429,17.7811009992279 -81.7511428796179,17.8473419723529 -81.6142448684929,17.9003347508529</coordinates></LineString>
+      <LineString><coordinates>-85.6151996452429,16.9464647378529 -85.4341409853679,16.9950414514779 -85.3237393634929,17.0082896461029 -85.1206003792429,17.0480342299779 -84.8512204218679,17.1098591382279 -84.7408187999929,17.1584358518529 -84.6436653727429,17.1893483059779 -84.5509280103679,17.2070125654779 -84.4272781938679,17.2467571493529 -84.3345408314929,17.2688374737279 -84.2020588852429,17.2688374737279 -83.9061825386179,17.3174141873529 -83.7295399436179,17.3483266414779 -83.6894587459903,17.3652029352159</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
@@ -3875,6 +3877,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">250</SimpleData>
 		<SimpleData name="accuracy">60000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3891,6 +3894,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">251</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(65,50,80)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3907,6 +3911,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">252</SimpleData>
 		<SimpleData name="accuracy">50000</SimpleData>
 		<SimpleData name="ns_average_dip">(65,50,80)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3923,6 +3928,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">253</SimpleData>
 		<SimpleData name="ns_average_dip">(60,50,75)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
 		<SimpleData name="ns_name">Cote-Arenal Fault</SimpleData>
@@ -3938,6 +3944,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">254</SimpleData>
 		<SimpleData name="accuracy">50000</SimpleData>
 		<SimpleData name="ns_average_dip">(30,20,50)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3955,6 +3962,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">255</SimpleData>
 		<SimpleData name="accuracy">50000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3969,6 +3977,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">256</SimpleData>
 		<SimpleData name="accuracy">50000</SimpleData>
 		<SimpleData name="ns_average_dip">(30,10,50)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3984,6 +3993,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">257</SimpleData>
 		<SimpleData name="accuracy">40000</SimpleData>
 		<SimpleData name="ns_average_dip">(30,20,50)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -3999,6 +4009,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">258</SimpleData>
 		<SimpleData name="accuracy">50000</SimpleData>
 		<SimpleData name="ns_average_dip">(50,45,70)</SimpleData>
 		<SimpleData name="ns_is_active">2</SimpleData>
@@ -4015,6 +4026,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">259</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="ns_average_dip">(90,,)</SimpleData>
 		<SimpleData name="ns_is_active">1</SimpleData>
@@ -4025,6 +4037,35 @@
 		<SimpleData name="ns_epistemic_quality">2</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-83.6138649390678,9.91543774341219 -83.6128301729025,9.9019857832635 -83.6040346604976,9.87766877837934 -83.5874784018531,9.86162990281744 -83.5579875661425,9.8450736441729 -83.5362574766715,9.82541308703252 -83.5228055165228,9.80523514680949 -83.5114230887047,9.79488748515665 -83.4953842131428,9.77522692801626 -83.48503655149,9.76850094794192 -83.4726193575066,9.75660113704116 -83.4555457157794,9.73849272914869 -83.4379546909696,9.72038432125623 -83.428641795482,9.70227591336377 -83.415707218416,9.67433722690111 -83.3960466612756,9.6495028389343 -83.3753513379699,9.621046769389 -83.3562081639122,9.59983406300069</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">260</SimpleData>
+		<SimpleData name="accuracy">1000000</SimpleData>
+		<SimpleData name="ns_is_active">1</SimpleData>
+		<SimpleData name="ns_name">Swan Islands Transform</SimpleData>
+		<SimpleData name="ns_strike_slip_rate">(6,5,7)</SimpleData>
+		<SimpleData name="fs_name">Swan Islands Transform</SimpleData>
+		<SimpleData name="slip_type">Sinistral</SimpleData>
+		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
+		<SimpleData name="ns_epistemic_quality">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-85.7229210151354,16.9732190229676 -85.5622068667428,17.0480342299779 -85.2442501957428,17.1981804357279 -85.1294325089928,17.2688374737279 -84.8556364867429,17.3571587712279 -84.6613296322429,17.4366479389779 -84.4846870372429,17.5028889121029 -84.3389568963679,17.5514656257279 -84.0784090687429,17.5912102096029 -83.8576058249929,17.6000423393529</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean">
+		<SimpleData name="ogc_fid">183</SimpleData>
+		<SimpleData name="accuracy">1000000</SimpleData>
+		<SimpleData name="ns_is_active">1</SimpleData>
+		<SimpleData name="ns_name">Swan Islands Transform</SimpleData>
+		<SimpleData name="fs_name">Swan Islands Transform</SimpleData>
+		<SimpleData name="slip_type">Sinistral</SimpleData>
+		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
+		<SimpleData name="ns_epistemic_quality">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-83.6894587459903,17.3652029352159 -83.6456347109929,17.3836551604779 -83.4115832726179,17.4366479389779 -83.1245390557429,17.4896407174779 -82.9390643309929,17.5470495608529 -82.7845020603679,17.5956262744779 -82.5239542327429,17.6574511827279 -82.3517277026179,17.7060278963529 -82.1574208481179,17.7634367397279 -81.9940264477429,17.7811009992279 -81.7511428796179,17.8473419723529 -81.6142448684929,17.9003347508529</coordinates></LineString>
   </Placemark>
 </Folder>
 </Document></kml>
