@@ -6490,7 +6490,7 @@
 -63.7203499949931 18.8492366908685
 -63.7004777030556 18.864692917931
 >
-# @D177|||1|"Enriquillo-Plantain Garden Fault"|||||||"Enriquillo-Plantain Garden Fault"|Sinistral||||||
+# @D177|||1|"Enriquillo-Plantain Garden Fault"|||||||"Enriquillo-Plantain Garden Fault"|"Sinistral Transform"||||||
 -76.2294057615398 17.9588476104467
 -76.215053550696 17.9588476104467
 -76.2007013398523 17.9621596591029
@@ -6546,7 +6546,7 @@
 -74.433723381743 18.3325571004935
 -74.4226832195555 18.334765132931
 >
-# @D178|500000||1|"Oriente Fault"|||||||"Oriente Fault Zone"|Sinistral||"Leroy et al., 2015 Terra Nova"|2|1||
+# @D178|500000||1|"Oriente Fault"|||||||"Oriente Fault Zone"|"Sinistral Transform"||"Leroy et al., 2015 Terra Nova"|2|1||
 -75.0199559938992 19.853891449931
 -74.9448828910242 19.875971774306
 -74.8918901125242 19.8825958716185
@@ -6670,7 +6670,7 @@
 -76.2277497372117 19.6921530738841
 -76.2961987427742 19.6943611063216
 >
-# @D180|500000||1|"Oriente Fault"|||||(||"Oriente Fault Zone"|Sinistral||"Leroy et al., 2015 Terra Nova"||1||
+# @D180|500000||1|"Oriente Fault"|||||(||"Oriente Fault Zone"|"Sinistral Transform"||"Leroy et al., 2015 Terra Nova"||1||
 -81.555732008899 18.8795971368842
 -81.458578581649 18.8928453315092
 -81.334928765149 18.8884292666342
@@ -6702,7 +6702,7 @@
 -76.8249041656997 19.6506118823528
 -76.5617605634725 19.6652430750918
 >
-# @D181|1000000||1|"Walton Fault Zone"|||||(5,4,7)||"Walton Fault Zone"|Sinistral||"Leroy et al., 2015 Terra Nova"||||"Slip rates from residual from total relative plate motion - Oriente Fault"
+# @D181|1000000||1|"Walton Fault Zone"|||||(5,4,7)||"Walton Fault Zone"|"Sinistral Transform"||"Leroy et al., 2015 Terra Nova"||||"Slip rates from residual from total relative plate motion - Oriente Fault"
 -81.6087247873991 17.9003347508529
 -81.4674107113991 17.9135829454779
 -81.2686877920241 17.9489114644779
@@ -6728,7 +6728,7 @@
 -78.4059186898764 18.1355452523757
 -78.0784807794818 18.1278506701099
 >
-# @D182|1000000||1|"Swan Islands Transform"|||||(19,18,20)||"Swan Islands Transform"|Sinistral||"Rogers and Mann, 2007"||1||
+# @D182|1000000||1|"Swan Islands Transform"|||||(19,18,20)||"Swan Islands Transform"|"Sinistral Transform"||"Rogers and Mann, 2007"||1||
 -88.3819600933798 15.6406926152449
 -87.9340561503154 15.9424439717367
 -87.7069168699012 16.0440134638617
@@ -6741,7 +6741,7 @@
 -85.8183386294928 16.9288004783529
 -85.7229210151354 16.9732190229676
 >
-# @D261|1000000||1|"Swan Islands Transform"|||||(13,12,14)||"Swan Islands Transform"|Sinistral||"Rogers and Mann, 2007"||1||
+# @D261|1000000||1|"Swan Islands Transform"|||||(13,12,14)||"Swan Islands Transform"|"Sinistral Transform"||"Rogers and Mann, 2007"||1||
 -85.6151996452429 16.9464647378529
 -85.4341409853679 16.9950414514779
 -85.3237393634929 17.0082896461029
@@ -8983,7 +8983,7 @@
 -77.7356162251878 19.5856132802132
 -77.7375248230159 19.5712987965024
 >
-# @D239|500000||1|"Oriente Fault"|||||||"Oriente Fault Zone"|Sinistral||"Leroy et al., 2015 Terra Nova"||1||
+# @D239|500000||1|"Oriente Fault"|||||||"Oriente Fault Zone"|"Sinistral Transform"||"Leroy et al., 2015 Terra Nova"||1||
 -77.9683971627919 19.651882890295
 -77.7963391593957 19.6854352543528
 -77.613111385443 19.7122493461652
@@ -9676,7 +9676,7 @@
 -83.3753513379699 9.621046769389
 -83.3562081639122 9.59983406300069
 >
-# @D260|1000000||1|"Swan Islands Transform"|||||(6,5,7)||"Swan Islands Transform"|Sinistral||"Rogers and Mann, 2007"||1||
+# @D260|1000000||1|"Swan Islands Transform"|||||(6,5,7)||"Swan Islands Transform"|"Sinistral Transform"||"Rogers and Mann, 2007"||1||
 -85.7229210151354 16.9732190229676
 -85.5622068667428 17.0480342299779
 -85.2442501957428 17.1981804357279
@@ -9688,7 +9688,7 @@
 -84.0784090687429 17.5912102096029
 -83.8576058249929 17.6000423393529
 >
-# @D183|1000000||1|"Swan Islands Transform"|||||||"Swan Islands Transform"|Sinistral||"Rogers and Mann, 2007"||1||
+# @D183|1000000||1|"Swan Islands Transform"|||||||"Swan Islands Transform"|"Sinistral Transform"||"Rogers and Mann, 2007"||1||
 -83.6894587459903 17.3652029352159
 -83.6456347109929 17.3836551604779
 -83.4115832726179 17.4366479389779
