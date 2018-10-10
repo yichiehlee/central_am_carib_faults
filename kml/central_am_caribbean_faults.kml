@@ -2889,7 +2889,7 @@
 		<SimpleData name="ogc_fid">184</SimpleData>
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
-		<SimpleData name="slip_type">Normal</SimpleData>
+		<SimpleData name="slip_type">Spreading Ridge</SimpleData>
 		<SimpleData name="reference">Leroy et al., 2000; Hayman et al., 2011</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -2922,7 +2922,7 @@
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
 		<SimpleData name="fz_name">Middle America Trench</SimpleData>
-		<SimpleData name="slip_type">Reverse</SimpleData>
+		<SimpleData name="slip_type">Subduction Thrust</SimpleData>
 		<SimpleData name="average_rake">(90,,)</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>

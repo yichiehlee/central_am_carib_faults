@@ -6757,7 +6757,7 @@
 -83.7295399436179 17.3483266414779
 -83.6894587459903 17.3652029352159
 >
-# @D184|1000000||1|"Cayman Spreading Center"||||||||Normal||"Leroy et al., 2000; Hayman et al., 2011"|1|1|(-13,-16,-10)|"Likely thin seismogenic thickness, may not produce moderate to large earthquakes. "
+# @D184|1000000||1|"Cayman Spreading Center"||||||||"Spreading Ridge"||"Leroy et al., 2000; Hayman et al., 2011"|1|1|(-13,-16,-10)|"Likely thin seismogenic thickness, may not produce moderate to large earthquakes. "
 -81.6628215821179 18.8232923097279
 -81.6539894523679 18.7040585581029
 -81.6539894523679 18.6157372606029
@@ -6907,7 +6907,7 @@
 -58.2673952681039 10.1139596271599
 -58.3552702166681 10.0524471631649
 >
-# @D187|1000000|(20,10,50)|1|"Middle America Trench megathrust"|E|W|||||"Middle America Trench"|Reverse|(90,,)||1|1|(75,50,90)|
+# @D187|1000000|(20,10,50)|1|"Middle America Trench megathrust"|E|W|||||"Middle America Trench"|"Subduction Thrust"|(90,,)||1|1|(75,50,90)|
 -106.454483464557 21.1620138663106
 -106.456917052899 21.0792718626954
 -106.447182699533 21.0062642124467
