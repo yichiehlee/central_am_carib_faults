@@ -12,7 +12,7 @@
 	<SimpleField name="net_slip_rate" type="string"></SimpleField>
 	<SimpleField name="strike_slip_rate" type="string"></SimpleField>
 	<SimpleField name="vert_slip_rate" type="string"></SimpleField>
-	<SimpleField name="fz_name" type="string"></SimpleField>
+	<SimpleField name="fs_name" type="string"></SimpleField>
 	<SimpleField name="slip_type" type="string"></SimpleField>
 	<SimpleField name="average_rake" type="string"></SimpleField>
 	<SimpleField name="reference" type="string"></SimpleField>
@@ -33,7 +33,7 @@
 		<SimpleData name="dip_dir">S</SimpleData>
 		<SimpleData name="net_slip_rate">(6.,4.,8.)</SimpleData>
 		<SimpleData name="vert_slip_rate">(0,,)</SimpleData>
-		<SimpleData name="fz_name">Tuxtla-Malpaso Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tuxtla-Malpaso Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -50,7 +50,7 @@
 		<SimpleData name="average_dip">(90,60,90)</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="net_slip_rate">(2.,0.,2.)</SimpleData>
-		<SimpleData name="fz_name">Tuxtla-Malpaso Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tuxtla-Malpaso Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -68,7 +68,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="net_slip_rate">(2,0,4)</SimpleData>
 		<SimpleData name="strike_slip_rate">(2,0,4)</SimpleData>
-		<SimpleData name="fz_name">San Cristobal Fault Zone</SimpleData>
+		<SimpleData name="fs_name">San Cristobal Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -87,7 +87,7 @@
 		<SimpleData name="net_slip_rate">(2,0,4)</SimpleData>
 		<SimpleData name="strike_slip_rate">(2,0,4)</SimpleData>
 		<SimpleData name="vert_slip_rate">(0,,)</SimpleData>
-		<SimpleData name="fz_name">Tuxtla-Malpaso Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tuxtla-Malpaso Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -106,7 +106,7 @@
 		<SimpleData name="net_slip_rate">(1,0,2)</SimpleData>
 		<SimpleData name="strike_slip_rate">(1,0,2)</SimpleData>
 		<SimpleData name="vert_slip_rate">(0,,)</SimpleData>
-		<SimpleData name="fz_name">Tectapan Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tectapan Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -124,7 +124,7 @@
 		<SimpleData name="net_slip_rate">(1,0,2)</SimpleData>
 		<SimpleData name="strike_slip_rate">(1,0,2)</SimpleData>
 		<SimpleData name="vert_slip_rate">(0,,)</SimpleData>
-		<SimpleData name="fz_name">Tuxtla-Malpaso Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tuxtla-Malpaso Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -142,7 +142,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="downthrown_side_id">NE</SimpleData>
 		<SimpleData name="strike_slip_rate">(0,,)</SimpleData>
-		<SimpleData name="fz_name">Tortuguero Thrust Zone</SimpleData>
+		<SimpleData name="fs_name">Tortuguero Thrust Zone</SimpleData>
 		<SimpleData name="slip_type">Thrust</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -160,7 +160,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="downthrown_side_id">N</SimpleData>
 		<SimpleData name="strike_slip_rate">(0,,)</SimpleData>
-		<SimpleData name="fz_name">Tortuguero Thrust Zone</SimpleData>
+		<SimpleData name="fs_name">Tortuguero Thrust Zone</SimpleData>
 		<SimpleData name="slip_type">Thrust</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -177,7 +177,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="downthrown_side_id">N</SimpleData>
 		<SimpleData name="strike_slip_rate">(0,,)</SimpleData>
-		<SimpleData name="fz_name">Tortuguero Thrust Zone</SimpleData>
+		<SimpleData name="fs_name">Tortuguero Thrust Zone</SimpleData>
 		<SimpleData name="slip_type">Thrust</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -209,7 +209,7 @@
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
 		<SimpleData name="strike_slip_rate">(1,0,2)</SimpleData>
-		<SimpleData name="fz_name">Tuxtla-Malpaso Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tuxtla-Malpaso Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -225,7 +225,7 @@
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="strike_slip_rate">(1,0,2)</SimpleData>
-		<SimpleData name="fz_name">Tuxtla-Malpaso Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tuxtla-Malpaso Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -240,7 +240,7 @@
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="strike_slip_rate">(1,0,2)</SimpleData>
-		<SimpleData name="fz_name">Tuxtla-Malpaso Fault System</SimpleData>
+		<SimpleData name="fs_name">Tuxtla-Malpaso Fault System</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -255,7 +255,7 @@
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="net_slip_rate">(1,0,2)</SimpleData>
-		<SimpleData name="fz_name">Tuxtla-Malpaso Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tuxtla-Malpaso Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -270,7 +270,7 @@
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="net_slip_rate">(1,0,2)</SimpleData>
-		<SimpleData name="fz_name">Tuxtla-Malpaso Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tuxtla-Malpaso Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -286,7 +286,7 @@
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="strike_slip_rate">(5,0,10)</SimpleData>
-		<SimpleData name="fz_name">Motagua-Polochic Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Motagua-Polochic Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Authemayou et al., 2012</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -302,7 +302,7 @@
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="strike_slip_rate">(5,0,10)</SimpleData>
-		<SimpleData name="fz_name">Motagua-Polochic Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Motagua-Polochic Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Authemayou et al., 2012</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -321,7 +321,7 @@
 		<SimpleData name="downthrown_side_id">S</SimpleData>
 		<SimpleData name="net_slip_rate">(1,0,4)</SimpleData>
 		<SimpleData name="strike_slip_rate">(1,0,3)</SimpleData>
-		<SimpleData name="fz_name">Tonala-Polochic Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tonala-Polochic Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Authemayo et al., 2012</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -338,7 +338,7 @@
 		<SimpleData name="average_dip">(90,80,90)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
 		<SimpleData name="strike_slip_rate">(1,0,3)</SimpleData>
-		<SimpleData name="fz_name">Tonala-Polochic Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tonala-Polochic Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Authemayou et al., 2012</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -355,7 +355,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="last_movement">1816</SimpleData>
 		<SimpleData name="strike_slip_rate">(3,0,6)</SimpleData>
-		<SimpleData name="fz_name">Motagua-Polochic Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Motagua-Polochic Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Authemayou et al., 2012; White, 1984</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -372,7 +372,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="last_movement">1785</SimpleData>
 		<SimpleData name="strike_slip_rate">(4.8,2.5,7.1)</SimpleData>
-		<SimpleData name="fz_name">Motagua-Polochic Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Motagua-Polochic Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Authemayou et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -387,7 +387,7 @@
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Motagua-Polochic Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Motagua-Polochic Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">DEM</SimpleData>
 	</SchemaData></ExtendedData>
@@ -400,7 +400,7 @@
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Motagua-Polochic Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Motagua-Polochic Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">DEM</SimpleData>
 	</SchemaData></ExtendedData>
@@ -419,7 +419,7 @@
 		<SimpleData name="last_movement">1971</SimpleData>
 		<SimpleData name="net_slip_rate">(1,0.1,3)</SimpleData>
 		<SimpleData name="vert_slip_rate">(0,0,0.2)</SimpleData>
-		<SimpleData name="fz_name">Ixcan Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Ixcan Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Guzman-Speziale, 2010; Authemayou et al., 2012</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -436,7 +436,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="last_movement">1902</SimpleData>
 		<SimpleData name="strike_slip_rate">(0.5,0.,2)</SimpleData>
-		<SimpleData name="fz_name">Concordia Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Concordia Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Guzman-Speziale, 2000</SimpleData>
 	</SchemaData></ExtendedData>
@@ -452,7 +452,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="last_movement">1976</SimpleData>
 		<SimpleData name="strike_slip_rate">(16,14,22)</SimpleData>
-		<SimpleData name="fz_name">Motagua Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Motagua Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Franco et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -469,7 +469,7 @@
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="strike_slip_rate">(20,18,22)</SimpleData>
-		<SimpleData name="fz_name">Motagua Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Motagua Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Mueller 1979 PhD thesis</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -487,7 +487,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">SE</SimpleData>
 		<SimpleData name="downthrown_side_id">SE</SimpleData>
-		<SimpleData name="fz_name">Tecpan Graben</SimpleData>
+		<SimpleData name="fs_name">Tecpan Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -505,7 +505,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Tecpan Graben</SimpleData>
+		<SimpleData name="fs_name">Tecpan Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -523,7 +523,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">NW</SimpleData>
 		<SimpleData name="downthrown_side_id">NW</SimpleData>
-		<SimpleData name="fz_name">Quetzaltenango Graben</SimpleData>
+		<SimpleData name="fs_name">Quetzaltenango Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -541,7 +541,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">Guatemala City Graben</SimpleData>
+		<SimpleData name="fs_name">Guatemala City Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Guzman-Speziale 2001; Franco et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -560,7 +560,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Guatemala City Graben</SimpleData>
+		<SimpleData name="fs_name">Guatemala City Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Guzman-Speziale 2001; Franco et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -579,7 +579,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">El Socorro Graben</SimpleData>
+		<SimpleData name="fs_name">El Socorro Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -597,7 +597,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">El Socorro Graben</SimpleData>
+		<SimpleData name="fs_name">El Socorro Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -614,7 +614,7 @@
 		<SimpleData name="is_active">2</SimpleData>
 		<SimpleData name="downthrown_side_id">SW</SimpleData>
 		<SimpleData name="strike_slip_rate">(0.5,0,3)</SimpleData>
-		<SimpleData name="fz_name">Tonala Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tonala Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Guzman-Speziale and Molina-Garza, 2012</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -632,7 +632,7 @@
 		<SimpleData name="is_active">2</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Mataquescuintla Graben</SimpleData>
+		<SimpleData name="fs_name">Mataquescuintla Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -649,7 +649,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Jalapa-Monjas Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Jalapa-Monjas Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -666,7 +666,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Jalapa-Monjas Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Jalapa-Monjas Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -683,7 +683,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">Jalapa-Monjas Fault System</SimpleData>
+		<SimpleData name="fs_name">Jalapa-Monjas Fault System</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -700,7 +700,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Jalapa-Monjas Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Jalapa-Monjas Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -717,7 +717,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">Ipala Graben</SimpleData>
+		<SimpleData name="fs_name">Ipala Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Guzman-Speziale 2001</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -735,7 +735,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Ipala Graben</SimpleData>
+		<SimpleData name="fs_name">Ipala Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Guzman-Speziale 2001</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -753,7 +753,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Ipala Graben</SimpleData>
+		<SimpleData name="fs_name">Ipala Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Guzman-Speziale</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -771,7 +771,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Esquipulas Graben</SimpleData>
+		<SimpleData name="fs_name">Esquipulas Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Guzman-Speziale 2001</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -789,7 +789,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">San Marcos Graben</SimpleData>
+		<SimpleData name="fs_name">San Marcos Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -806,7 +806,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">San Marcos Graben</SimpleData>
+		<SimpleData name="fs_name">San Marcos Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -823,7 +823,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">San Marcos Graben</SimpleData>
+		<SimpleData name="fs_name">San Marcos Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -840,7 +840,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">Lempira Graben</SimpleData>
+		<SimpleData name="fs_name">Lempira Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -857,7 +857,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Lempira Graben</SimpleData>
+		<SimpleData name="fs_name">Lempira Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -874,7 +874,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">Lempira Graben</SimpleData>
+		<SimpleData name="fs_name">Lempira Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -891,7 +891,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Lempira Graben</SimpleData>
+		<SimpleData name="fs_name">Lempira Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -908,7 +908,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Santa Barbara Graben</SimpleData>
+		<SimpleData name="fs_name">Santa Barbara Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -925,7 +925,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">Santa Barbara Graben</SimpleData>
+		<SimpleData name="fs_name">Santa Barbara Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -942,7 +942,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">Santa Barbara Graben</SimpleData>
+		<SimpleData name="fs_name">Santa Barbara Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -957,7 +957,7 @@
 		<SimpleData name="ogc_fid">56</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
-		<SimpleData name="fz_name">Motagua Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Motagua Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -974,7 +974,7 @@
 		<SimpleData name="average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="dip_dir">SW</SimpleData>
 		<SimpleData name="downthrown_side_id">NE</SimpleData>
-		<SimpleData name="fz_name">Chiapas Fold Belt</SimpleData>
+		<SimpleData name="fs_name">Chiapas Fold Belt</SimpleData>
 		<SimpleData name="slip_type">Thrust</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -991,7 +991,7 @@
 		<SimpleData name="average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="dip_dir">SW</SimpleData>
 		<SimpleData name="downthrown_side_id">NE</SimpleData>
-		<SimpleData name="fz_name">Chiapas Fold Belt</SimpleData>
+		<SimpleData name="fs_name">Chiapas Fold Belt</SimpleData>
 		<SimpleData name="slip_type">Thrust</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -1008,7 +1008,7 @@
 		<SimpleData name="average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="dip_dir">SW</SimpleData>
 		<SimpleData name="downthrown_side_id">NE</SimpleData>
-		<SimpleData name="fz_name">Chiapas Fold Belt</SimpleData>
+		<SimpleData name="fs_name">Chiapas Fold Belt</SimpleData>
 		<SimpleData name="slip_type">Thrust</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -1025,7 +1025,7 @@
 		<SimpleData name="average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="dip_dir">SW</SimpleData>
 		<SimpleData name="downthrown_side_id">NE</SimpleData>
-		<SimpleData name="fz_name">Chiapas Fold Belt</SimpleData>
+		<SimpleData name="fs_name">Chiapas Fold Belt</SimpleData>
 		<SimpleData name="slip_type">Thrust</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -1042,7 +1042,7 @@
 		<SimpleData name="average_dip">(15,10,35)</SimpleData>
 		<SimpleData name="dip_dir">SW</SimpleData>
 		<SimpleData name="downthrown_side_id">NE</SimpleData>
-		<SimpleData name="fz_name">Chiapas Fold belt</SimpleData>
+		<SimpleData name="fs_name">Chiapas Fold belt</SimpleData>
 		<SimpleData name="slip_type">Thrust</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -1059,7 +1059,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">San Pedro Sula Graben</SimpleData>
+		<SimpleData name="fs_name">San Pedro Sula Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -1077,7 +1077,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">San Pedro Sula Graben</SimpleData>
+		<SimpleData name="fs_name">San Pedro Sula Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -1095,7 +1095,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">San Pedro Sula Graben</SimpleData>
+		<SimpleData name="fs_name">San Pedro Sula Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -1113,7 +1113,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">San Pedro Sula Graben</SimpleData>
+		<SimpleData name="fs_name">San Pedro Sula Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -1131,7 +1131,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">San Pedro Sula Graben</SimpleData>
+		<SimpleData name="fs_name">San Pedro Sula Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -1149,7 +1149,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">El Negrito Graben</SimpleData>
+		<SimpleData name="fs_name">El Negrito Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -1167,7 +1167,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Morazon Graben</SimpleData>
+		<SimpleData name="fs_name">Morazon Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -1185,7 +1185,7 @@
 		<SimpleData name="average_dip">(60,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">San Pedro Sula Graben</SimpleData>
+		<SimpleData name="fs_name">San Pedro Sula Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -1205,7 +1205,7 @@
 		<SimpleData name="dip_dir">S</SimpleData>
 		<SimpleData name="net_slip_rate">(1,0,2)</SimpleData>
 		<SimpleData name="strike_slip_rate">(1,0,2)</SimpleData>
-		<SimpleData name="fz_name">Tectapan Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Tectapan Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Witt et al., 2012; Meneses-Rocha 2001</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -1335,7 +1335,7 @@
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="average_dip">(90,70,90)</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
-		<SimpleData name="fz_name">Jalpatagua Fault</SimpleData>
+		<SimpleData name="fs_name">Jalpatagua Fault</SimpleData>
 		<SimpleData name="slip_type">Dextral</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -1352,7 +1352,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">S</SimpleData>
 		<SimpleData name="downthrown_side_id">S</SimpleData>
-		<SimpleData name="fz_name">Jalpatagua Fault</SimpleData>
+		<SimpleData name="fs_name">Jalpatagua Fault</SimpleData>
 		<SimpleData name="slip_type">Dextral</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -1369,7 +1369,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">Comayagua Graben</SimpleData>
+		<SimpleData name="fs_name">Comayagua Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -1388,7 +1388,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Comayagua Graben</SimpleData>
+		<SimpleData name="fs_name">Comayagua Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -1406,7 +1406,7 @@
 		<SimpleData name="average_dip">(50,40,70)</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Comayagua Graben</SimpleData>
+		<SimpleData name="fs_name">Comayagua Graben</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
 		<SimpleData name="epistemic_quality">2</SimpleData>
@@ -1657,7 +1657,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="last_movement">2001 AD</SimpleData>
 		<SimpleData name="net_slip_rate">(5,3,8)</SimpleData>
-		<SimpleData name="fz_name">El Salvador Fault Zone</SimpleData>
+		<SimpleData name="fs_name">El Salvador Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Dextral</SimpleData>
 		<SimpleData name="reference">Staller et al., 2016; Canora et al., 2012</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -1713,7 +1713,7 @@
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="strike_slip_rate">(5,2,10)</SimpleData>
-		<SimpleData name="fz_name">El Salvador Fault ZOne</SimpleData>
+		<SimpleData name="fs_name">El Salvador Fault ZOne</SimpleData>
 		<SimpleData name="slip_type">Dextral</SimpleData>
 		<SimpleData name="reference">Staller et al., 2016; Corti et al., 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -2203,7 +2203,7 @@
 		<SimpleData name="ogc_fid">135</SimpleData>
 		<SimpleData name="average_dip">90</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
-		<SimpleData name="fz_name">Septentrional Fault</SimpleData>
+		<SimpleData name="fs_name">Septentrional Fault</SimpleData>
 		<SimpleData name="reference"></SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-71.690633898235,19.8401999148009 -71.6778244620605,19.8403684600137 -71.6638352093962,19.8395257339496 -71.6500145019447,19.8378402818214 -71.6395646987497,19.8354806488419 -71.6316430737471,19.8346379227778 -71.6196763636367,19.8339637419265 -71.6048443849083,19.8307613828828 -71.5960800338415,19.8297501116059 -71.5846189593695,19.8280646594777 -71.5733264301104,19.8262106621366 -71.5637193529795,19.8248623004341 -71.5557977279769,19.8226712126674 -71.5488873742512,19.8221655770289 -71.543325382228,19.8209857605391 -71.5392802971203,19.8199744892622 -71.5335497598843,19.8166035850057 -71.5286619487124,19.815423768516 -71.522425775838,19.8144124972391 -71.5136614247712,19.8118843190467 -71.5070881614711,19.8105359573441 -71.5028745311506,19.8086819600031 -71.499461490591,19.8109573203762 -71.4917084108011,19.8112944108018 -71.4821013336702,19.8104516847377 -71.4773820677112,19.8088505052159 -71.4713144400496,19.8067436900556 -71.467100809729,19.8054796009595 -71.4632242698341,19.8040469666505 -71.459516275152,19.8032042405863 -71.4553869174378,19.8018558788838 -71.4528587392455,19.8016030610645 -71.4495721075955,19.8024457871286 -71.4424932086569,19.8026143323415 -71.4369312166338,19.8014345158517 -71.4279140477477,19.7984849746273 -71.419571059713,19.7952826155837 -71.4150203389668,19.7940185264875 -71.4110595264655,19.7927544373913 -71.4043177179526,19.7898891687734 -71.3999355424192,19.7880351714323 -71.395911525463,19.7863497193041 -71.3894225347694,19.7841586315374 -71.3820065454052,19.781209090313 -71.3737478299769,19.778343821695</coordinates></LineString>
@@ -2214,7 +2214,7 @@
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean_faults">
 		<SimpleData name="ogc_fid">136</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
-		<SimpleData name="fz_name">Septentrional Fault</SimpleData>
+		<SimpleData name="fs_name">Septentrional Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-71.6932674171853,19.8308877917925 -71.6848401565442,19.8304664287604 -71.6696710873902,19.8292866122707 -71.6582942855246,19.8279382505681 -71.6487714810002,19.8266741614719 -71.6377317695603,19.8248201641309 -71.6271134211525,19.8233875298219 -71.6186861605113,19.8229661667898 -71.6078992668907,19.8195952625334 -71.59053910997,19.8154659048192 -71.5816904862968,19.8141175431166 -71.567195597994,19.8106623662538 -71.5569986126183,19.8085555510935 -71.5504253493182,19.8070386441781 -71.5353405527706,19.8034991947088 -71.526829019523,19.8008867439101 -71.5118284955818,19.7970944766215 -71.504075415792,19.7949876614613 -71.4810689942417,19.7897627598638 -71.4665741059389,19.7860547651817 -71.4628661112568,19.7845378582663 -71.4508994011464,19.7821782252867 -71.4372472389078,19.7791444114559 -71.4267974357128,19.7766162332636 -71.4252805287974,19.7756049619867 -71.410027187037,19.7728239659751 -71.4002515646932,19.7702957877828 -71.3917400314457,19.7675147917712 -71.3814587734635,19.764396705334 -71.3720202415455,19.7603516202262 -71.3608962574992,19.7556323542672 -71.3485924569631,19.7517558143723 -71.3367942920655,19.7460252771363 -71.3251646723808,19.7402947399003 -71.3138721431216,19.7359125643669 -71.3051077920549,19.7316989340464 -71.2863992734316,19.7241143994694 -71.2648254861903,19.7160242292539 -71.2518475048029,19.7097880563794 -71.2410606111823,19.7055744260589 -71.2297680819232,19.700686614887 -71.2240375446872,19.6984955271203 -71.2085313851075,19.6925964446715 -71.1874632335047,19.6841691840304 -71.1739796164789,19.6762475590277 -71.1389222122118,19.660741399448 -71.1008309941138,19.6459094207197 -71.0684703132519,19.6320887132682 -71.0320645472822,19.618942186668 -71.0121762121692,19.6132116494321 -70.9946475100356,19.6081552930474 -70.9757704461995,19.6017505749601 -70.9632981004506,19.598042580278 -70.9413872227837,19.5909636813395 -70.915431260009,19.5821993302727 -70.8994194647908,19.5776907458297 -70.8763287706341,19.570780392104 -70.852732440839,19.5640385835911 -70.8377319168978,19.5601620436961 -70.820371759977,19.5540944160345</coordinates></LineString>
@@ -2228,7 +2228,7 @@
 		<SimpleData name="average_dip">(80,70,90)</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">S</SimpleData>
-		<SimpleData name="fz_name">Septentrional Fault</SimpleData>
+		<SimpleData name="fs_name">Septentrional Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral-Normal</SimpleData>
 		<SimpleData name="reference">Mann et al., 1998 GSA SP</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -2245,7 +2245,7 @@
 		<SimpleData name="average_dip">(60,50,80)</SimpleData>
 		<SimpleData name="dip_dir">N</SimpleData>
 		<SimpleData name="downthrown_side_id">N</SimpleData>
-		<SimpleData name="fz_name"></SimpleData>
+		<SimpleData name="fs_name"></SimpleData>
 		<SimpleData name="slip_type">Normal-Sinistral</SimpleData>
 		<SimpleData name="reference">Mann et al.., 1998 GSA SP</SimpleData>
 	</SchemaData></ExtendedData>
@@ -2258,7 +2258,7 @@
 		<SimpleData name="ogc_fid">139</SimpleData>
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="average_dip">90</SimpleData>
-		<SimpleData name="fz_name">Septentrional Fault</SimpleData>
+		<SimpleData name="fs_name">Septentrional Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Mann et al., 1998 GSA SP</SimpleData>
 	</SchemaData></ExtendedData>
@@ -2273,7 +2273,7 @@
 		<SimpleData name="average_dip">90</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="last_movement">1562</SimpleData>
-		<SimpleData name="fz_name">Septentrional Fault</SimpleData>
+		<SimpleData name="fs_name">Septentrional Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -2299,7 +2299,7 @@
 		<SimpleData name="ogc_fid">142</SimpleData>
 		<SimpleData name="accuracy">200000</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
-		<SimpleData name="fz_name">Septentrional Fault</SimpleData>
+		<SimpleData name="fs_name">Septentrional Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Leroy et al., 2015 Terra Nova</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -2539,7 +2539,7 @@
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean_faults">
 		<SimpleData name="ogc_fid">158</SimpleData>
 		<SimpleData name="dip_dir">N</SimpleData>
-		<SimpleData name="fz_name">Great Southern Puerto Rico Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Great Southern Puerto Rico Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Dextral-Normal</SimpleData>
 		<SimpleData name="reference">Mann et al., 2005</SimpleData>
 	</SchemaData></ExtendedData>
@@ -2551,7 +2551,7 @@
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean_faults">
 		<SimpleData name="ogc_fid">159</SimpleData>
 		<SimpleData name="dip_dir">N</SimpleData>
-		<SimpleData name="fz_name">Great Southern Puerto Rico Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Great Southern Puerto Rico Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Dextral-Normal</SimpleData>
 		<SimpleData name="reference">Mann et al., 2005</SimpleData>
 	</SchemaData></ExtendedData>
@@ -2655,7 +2655,7 @@
 		<SimpleData name="ogc_fid">167</SimpleData>
 		<SimpleData name="accuracy">200000</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
-		<SimpleData name="fz_name">Septentrional Fault</SimpleData>
+		<SimpleData name="fs_name">Septentrional Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-69.2369810380594,19.1607072665834 -69.2115886650281,19.1584992341459 -69.1972364541844,19.1551871854896 -69.1751561298094,19.1573952179271 -69.1497637567781,19.1562912017084 -69.1409316270281,19.1518751368334 -69.0879388485281,19.1474590719584 -69.0647545079344,19.1452510395209 -69.0327380375906,19.1386269422084 -69.0062416483406,19.1375229259896 -68.9720171455594,19.1364189097709 -68.9433127238719,19.1342108773334 -68.9112962535281,19.1297948124584 -68.8726556858719,19.1231707151459 -68.8251829884656,19.1209626827084 -68.7666701288719,19.1176506340521 -68.7059492368406,19.1088185043021 -68.6849729286844,19.1021944069896 -68.6286681015281,19.0977783421146 -68.5646351608406,19.1021944069896 -68.5326186904969,19.0999863745521 -68.5072263174656,19.0977783421146 -68.4807299282156,19.0999863745521 -68.4454014092156,19.1066104718646 -68.4189050199656,19.1121305529584 -68.3769524036531,19.1176506340521 -68.3261676575906,19.1220666989271 -68.2985672521219,19.1198586664896 -68.2831110250594,19.1121305529584 -68.2510945547156,19.1032984232084 -68.2212861168094,19.0977783421146 -68.1887176383562,19.0845301474896 -68.1307567868719,19.0740419934115 -68.1031563814031,19.0663138798802 -68.0700358948406,19.0569297420209 -68.0297393028562,19.0508576528177 -67.9971708244031,19.0458895798334 -67.9662583702781,19.0436815473959 -67.9353459161531,19.0392654825209 -67.8961533403875,19.0354014257552 -67.8459206024344,19.0298813446615 -67.8045199942313,19.0265692960052 -67.7857517185125,19.0287773284427 -67.757047296825,19.0293293365521 -67.7222707859344,19.0359534338646 -67.6908063237,19.036505441974 -67.6455416587312,19.0298813446615 -67.6173892451531,19.0243612635677 -67.5914448640125,19.0160811419271 -67.5732285964031,19.010009052724 -67.5467322071531,19.0061449959584 -67.527411923325,18.9995208986459 -67.5108516800438,18.9978648743177 -67.4948434448719,18.9991068925638 -67.4793872178094,19.0046269736576</coordinates></LineString>
@@ -2668,7 +2668,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">Mona Rift</SimpleData>
+		<SimpleData name="fs_name">Mona Rift</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="shortening_rate">(-2.,-1.,-3.)</SimpleData>
 	</SchemaData></ExtendedData>
@@ -2695,7 +2695,7 @@
 		<SimpleData name="ogc_fid">170</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">Yuma Rift</SimpleData>
+		<SimpleData name="fs_name">Yuma Rift</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Hippolyte et al., 2005 GSA SP; Symithe et al., 2015</SimpleData>
 		<SimpleData name="shortening_rate">(-1.,-0.5,-2.)</SimpleData>
@@ -2709,7 +2709,7 @@
 		<SimpleData name="ogc_fid">171</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Yuma Rift</SimpleData>
+		<SimpleData name="fs_name">Yuma Rift</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Hippolyte et al., 2005 GSA SP; Symithe et al., 2015</SimpleData>
 		<SimpleData name="shortening_rate">(-1.,-0.5,-2.)</SimpleData>
@@ -2723,7 +2723,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">NE</SimpleData>
 		<SimpleData name="downthrown_side_id">SW</SimpleData>
-		<SimpleData name="fz_name">Muertos Thrust</SimpleData>
+		<SimpleData name="fs_name">Muertos Thrust</SimpleData>
 		<SimpleData name="slip_type">Reverse</SimpleData>
 		<SimpleData name="reference">Benford et al., 2012 GJI</SimpleData>
 	</SchemaData></ExtendedData>
@@ -2737,7 +2737,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">N</SimpleData>
 		<SimpleData name="downthrown_side_id">S</SimpleData>
-		<SimpleData name="fz_name">Muertos Thrust</SimpleData>
+		<SimpleData name="fs_name">Muertos Thrust</SimpleData>
 		<SimpleData name="slip_type">Reverse</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-70.7217448502508,17.7656447721654 -70.6643360068758,17.7192760909779 -70.6400476500633,17.6861556044154 -70.6267994554383,17.6530351178529 -70.6047191310633,17.6287467610404 -70.5782227418133,17.5978343069154 -70.5274379957508,17.5669218527904 -70.4766532496883,17.5426334959779 -70.4082042441258,17.5028889121029 -70.3618355629383,17.4896407174779 -70.3242990115008,17.4786005552904 -70.2536419735008,17.4609362957904 -70.1167439623758,17.4521041660404 -70.0438788919383,17.4388559714154 -69.9886780810008,17.4278158092279 -69.9356853025008,17.4145676146029 -69.8959407186258,17.4035274524154 -69.8606121996258,17.3946953226654 -69.8296997455008,17.3880712253529 -69.7678748372508,17.3726149982904 -69.7281302533758,17.3593668036654 -69.6795535397508,17.3505346739154 -69.6309768261258,17.3527427063529 -69.6111045341883,17.3527427063529 -69.5603197881259,17.3505346739154 -69.5051189771883,17.3461186090404 -69.4300458743134,17.3306623819779 -69.3196442524384,17.3041659927279 -69.2489872144384,17.2909177981029 -69.1452096898759,17.2865017332279 -69.0613044572509,17.2644214088529 -69.0083116787509,17.2489651817904 -68.9553189002509,17.2445491169154 -68.8912859595634,17.2335089547279 -68.8493333432509,17.2423410844779 -68.8046206863915,17.2357169871654 -68.7880604431103,17.2340609628373 -68.7621160619696,17.2329569466186 -68.7433477862509,17.2362689952748 -68.7278915591884,17.2401330520405 -68.7107793077978,17.2428930925873 -68.6721387401415,17.2439971088061 -68.6517144400946,17.246757149353 -68.6208019859696,17.2522772304467 -68.5661531831415,17.2473091574623 -68.5391047857821,17.2478611655717 -68.5192324938446,17.2495171898998 -68.4927361045946,17.2456531331342 -68.4518875045009,17.2395810439311 -68.3856465313759,17.2307489141811 -68.3039493311884,17.2152926871186 -68.2575806500009,17.2086685898061 -68.1825075471259,17.1910043303061 -68.1339308335009,17.1932123627436 -68.0522336333134,17.2020444924936 -67.9506641411884,17.1998364600561 -67.8932552978134,17.2020444924936 -67.8557187463759,17.2064605573686 -67.8248062922509,17.2197087519936 -67.7364849947509,17.2241248168686 -67.6901163135634,17.2395810439311 -67.6658279567509,17.2484131736811 -67.6260833728759,17.2550372709936 -67.6111791539228,17.2583493196498 -67.5852347727821,17.2589013277592 -67.5670185051728,17.2611093601967 -67.5504582618915,17.2627653845248 -67.5156817510009,17.2677334575092 -67.4936014266259,17.2671814493998 -67.4654490130478,17.2715975142748 -67.4477847535478,17.2727015304936 -67.4251524210634,17.2804296440248 -67.4096961940009,17.2853977170092 -67.3826477966415,17.2898137818842 -67.3622234965946,17.2969898873061 -67.3462152614228,17.3036139846186 -67.3169588316259,17.3118941062592 -67.2998465802353,17.3157581630248 -67.2705901504384,17.3229342684467 -67.2440937611884,17.3279023414311 -67.2242214692509,17.3339744306342 -67.1988290962196,17.339494511728 -67.1778527880634,17.3422545522748 -67.1474923420478,17.343910576603 -67.1303800906571,17.3494306576967 -67.1171318960321,17.3555027468998 -67.0994676365321,17.3599188117748 -67.0691071905165,17.3621268442123 -67.044818833704,17.3555027468998 -67.0304666228603,17.3521906982436 -67.0028662173915,17.3521906982436 -66.9598095848603,17.3488786495873 -66.9200650009853,17.3521906982436 -66.9012967252665,17.3477746333686 -66.8880485306415,17.3466706171498 -66.846095914329,17.3378384873998 -66.8273276386103,17.3367344711811 -66.7942071520478,17.3356304549623 -66.748942487079,17.3356304549623 -66.7279661789228,17.3345264387436 -66.6849095463915,17.3411505360561 -66.656205124704,17.3477746333686 -66.6230846381415,17.3455666009311 -66.598796281329,17.3433585684936 -66.5700918596415,17.3400465198373 -66.5469075190478,17.3378384873998 -66.5347633406415,17.3378384873998 -66.5159950649228,17.3411505360561 -66.4961227729853,17.3499826658061 -66.4718344161728,17.3466706171498 -66.448650075579,17.3433585684936 -66.4287777836415,17.3466706171498 -66.3492886158915,17.3367344711811 -66.298503869829,17.3168621792436 -66.2477191237665,17.3036139846186 -66.179270118204,17.2903657899936 -66.130693404579,17.2881577575561 -66.0578283341415,17.3014059521811 -65.9827552312665,17.2969898873061 -65.914306225704,17.3212782441186 -65.8546893498915,17.3433585684936 -65.7972805065165,17.3455666009311 -65.7442877280165,17.3588147955561 -65.689086917079,17.3654388928686 -65.6471343007665,17.3632308604311 -65.6073897168915,17.3521906982436 -65.5543969383915,17.3499826658061 -65.5146523545165,17.3543987306811 -65.477115803079,17.3499826658061 -65.455035478704,17.3543987306811 -65.4086667975165,17.3521906982436 -65.371130246079,17.3433585684936 -65.3269695973291,17.3477746333686 -65.2706647701728,17.3599188117748 -65.2452723971415,17.3654388928686 -65.2132559267978,17.3599188117748 -65.1757193753603,17.3687509415248 -65.1448069212353,17.3687509415248 -65.119414548204,17.3621268442123 -65.0896061102978,17.3532947144623 -65.0520695588603,17.3455666009311 -65.0156370236416,17.3389425036186 -64.9527080991728,17.3356304549623 -64.9052354017666,17.3488786495873 -64.8665948341103,17.3610228279936 -64.8489305746103,17.3753750388373 -64.8334743475478,17.3875192172436 -64.8158100880478,17.4018714280873 -64.7826896014853,17.4129115902748 -64.7584012446728,17.4206397038061 -64.7230727256728,17.4305758497748 -64.6899522391103,17.4471360930561 -64.6689759309541,17.4636963363373 -64.6358554443916,17.4692164174311 -64.6126711037978,17.4636963363373 -64.5883827469853,17.4592802714623 -64.4536927682978,17.4714244498686 -64.4029080222353,17.5001288715561 -64.3764116329853,17.5200011634936 -64.3543313086103,17.5376654229936 -64.2969224652353,17.5509136176186 -64.2527618164853,17.5553296824936 -64.2196413299228,17.5332493581186 -64.1997690379853,17.5200011634936 -64.1776887136103,17.4979208391186 -64.1644405189853,17.4648003525561</coordinates></LineString>
@@ -2748,7 +2748,7 @@
 		<SimpleData name="ogc_fid">174</SimpleData>
 		<SimpleData name="dip_dir">N</SimpleData>
 		<SimpleData name="downthrown_side_id">N</SimpleData>
-		<SimpleData name="fz_name">Anegada Rift</SimpleData>
+		<SimpleData name="fs_name">Anegada Rift</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Mann et al., 2005 GSA SP</SimpleData>
 	</SchemaData></ExtendedData>
@@ -2761,7 +2761,7 @@
 		<SimpleData name="ogc_fid">175</SimpleData>
 		<SimpleData name="dip_dir">N</SimpleData>
 		<SimpleData name="downthrown_side_id">N</SimpleData>
-		<SimpleData name="fz_name">Anegada Rift</SimpleData>
+		<SimpleData name="fs_name">Anegada Rift</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Mann et al., 2005 GSA SP</SimpleData>
 	</SchemaData></ExtendedData>
@@ -2774,7 +2774,7 @@
 		<SimpleData name="ogc_fid">176</SimpleData>
 		<SimpleData name="dip_dir">S</SimpleData>
 		<SimpleData name="downthrown_side_id">S</SimpleData>
-		<SimpleData name="fz_name">Anegada Rift</SimpleData>
+		<SimpleData name="fs_name">Anegada Rift</SimpleData>
 		<SimpleData name="slip_type">Normal</SimpleData>
 		<SimpleData name="reference">Mann et al., 2005 GSA SP</SimpleData>
 	</SchemaData></ExtendedData>
@@ -2786,7 +2786,7 @@
 	<ExtendedData><SchemaData schemaUrl="#central_am_caribbean_faults">
 		<SimpleData name="ogc_fid">177</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
-		<SimpleData name="fz_name">Enriquillo-Plantain Garden Fault</SimpleData>
+		<SimpleData name="fs_name">Enriquillo-Plantain Garden Fault</SimpleData>
 		<SimpleData name="slip_type">Sinistral Transform</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-76.2294057615398,17.9588476104467 -76.215053550696,17.9588476104467 -76.2007013398523,17.9621596591029 -76.1902131857741,17.9638156834311 -76.1405324559304,17.9748558456185 -76.1162440991179,17.9748558456185 -76.0853316449929,17.977063878056 -76.0588352557429,17.977063878056 -76.0279228016179,17.977063878056 -76.0014264123679,17.985896007806 -75.9771380555554,17.9925201051185 -75.9440175689929,18.003560267306 -75.9175211797429,18.007976332181 -75.8799846283055,18.016808461931 -75.8049115254305,18.0234325592435 -75.7717910388679,18.0322646889935 -75.7342544874304,18.0410968187435 -75.683469741368,18.0455128836185 -75.6547653196805,18.052136980931 -75.6150207358055,18.065385175556 -75.5664440221805,18.0675932079935 -75.533323535618,18.069801240431 -75.5002030490555,18.0720092728685 -75.4648745300555,18.0808414026185 -75.422921913743,18.087465499931 -75.3898014271805,18.0985056621185 -75.365513070368,18.109545824306 -75.290439967493,18.1294181162435 -75.259527513368,18.144874343306 -75.2308230916805,18.1470823757435 -75.206534734868,18.153706473056 -75.1336696644305,18.1559145054935 -75.0983411454305,18.1735787649935 -75.0630126264305,18.1956590893685 -75.0321001723055,18.211115316431 -74.932738712618,18.2309876083685 -74.8952021611805,18.2442358029935 -74.8466254475555,18.2619000624935 -74.8333772529305,18.268524159806 -74.7936326690555,18.277356289556 -74.773760377118,18.2883964517435 -74.7406398905555,18.295020549056 -74.7053113715555,18.3016446463685 -74.6611507228055,18.308268743681 -74.641278430868,18.312684808556 -74.5949097496805,18.3148928409935 -74.5728294253055,18.3193089058685 -74.544125003618,18.321516938306 -74.513212549493,18.325933003181 -74.4933402575555,18.330349068056 -74.473467965618,18.330349068056 -74.451387641243,18.330349068056 -74.433723381743,18.3325571004935 -74.4226832195555,18.334765132931</coordinates></LineString>
@@ -2798,7 +2798,7 @@
 		<SimpleData name="ogc_fid">178</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
-		<SimpleData name="fz_name">Oriente Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Oriente Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral Transform</SimpleData>
 		<SimpleData name="reference">Leroy et al., 2015 Terra Nova</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -2814,7 +2814,7 @@
 		<SimpleData name="is_active">2</SimpleData>
 		<SimpleData name="dip_dir">N</SimpleData>
 		<SimpleData name="downthrown_side_id">S</SimpleData>
-		<SimpleData name="fz_name">Oriente Fault</SimpleData>
+		<SimpleData name="fs_name">Oriente Fault</SimpleData>
 		<SimpleData name="slip_type">Reverse</SimpleData>
 		<SimpleData name="reference">Leroy et al., 2015 Terra Nova</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -2830,7 +2830,7 @@
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="strike_slip_rate">(</SimpleData>
-		<SimpleData name="fz_name">Oriente Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Oriente Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral Transform</SimpleData>
 		<SimpleData name="reference">Leroy et al., 2015 Terra Nova</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -2845,7 +2845,7 @@
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="strike_slip_rate">(5,4,7)</SimpleData>
-		<SimpleData name="fz_name">Walton Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Walton Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral Transform</SimpleData>
 		<SimpleData name="reference">Leroy et al., 2015 Terra Nova</SimpleData>
 		<SimpleData name="notes">Slip rates from residual from total relative plate motion - Oriente Fault</SimpleData>
@@ -2860,7 +2860,7 @@
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="strike_slip_rate">(19,18,20)</SimpleData>
-		<SimpleData name="fz_name">Swan Islands Transform</SimpleData>
+		<SimpleData name="fs_name">Swan Islands Transform</SimpleData>
 		<SimpleData name="slip_type">Sinistral Transform</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -2875,7 +2875,7 @@
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="strike_slip_rate">(13,12,14)</SimpleData>
-		<SimpleData name="fz_name">Swan Islands Transform</SimpleData>
+		<SimpleData name="fs_name">Swan Islands Transform</SimpleData>
 		<SimpleData name="slip_type">Sinistral Transform</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -2921,7 +2921,7 @@
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Middle America Trench</SimpleData>
+		<SimpleData name="fs_name">Middle America Trench</SimpleData>
 		<SimpleData name="slip_type">Subduction Thrust</SimpleData>
 		<SimpleData name="average_rake">(90,,)</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -3038,7 +3038,7 @@
 		<SimpleData name="dip_dir">N</SimpleData>
 		<SimpleData name="downthrown_side_id">N</SimpleData>
 		<SimpleData name="net_slip_rate">(1,0.1,3)</SimpleData>
-		<SimpleData name="fz_name">Azuero Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Azuero Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral-Normal</SimpleData>
 		<SimpleData name="reference">DEM</SimpleData>
 		<SimpleData name="notes">Topographically well expressed in a rapidly-eroding tropical region.  Looks more normal in E, more sinsitral in W.</SimpleData>
@@ -3147,7 +3147,7 @@
 		<SimpleData name="average_dip">(70,50,90)</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="dip_dir">S</SimpleData>
-		<SimpleData name="fz_name">Bunce Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bunce Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Grindlay et al. 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3164,7 +3164,7 @@
 		<SimpleData name="is_active">2</SimpleData>
 		<SimpleData name="dip_dir">W</SimpleData>
 		<SimpleData name="downthrown_side_id">W</SimpleData>
-		<SimpleData name="fz_name">Bunce Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bunce Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Normal-Sinistral</SimpleData>
 		<SimpleData name="reference">DEM; Grindlay et al. 2005</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -3182,7 +3182,7 @@
 		<SimpleData name="is_active">2</SimpleData>
 		<SimpleData name="dip_dir">E</SimpleData>
 		<SimpleData name="downthrown_side_id">E</SimpleData>
-		<SimpleData name="fz_name">Bunce Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bunce Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral-Normal</SimpleData>
 		<SimpleData name="reference">Bathymetry; Grindlay et al. 2005</SimpleData>
 		<SimpleData name="exposure_quality">1</SimpleData>
@@ -3199,7 +3199,7 @@
 		<SimpleData name="average_dip">(90,70,90)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
 		<SimpleData name="dip_dir">S</SimpleData>
-		<SimpleData name="fz_name">Bunce Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bunce Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Grindlay et al. 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3216,7 +3216,7 @@
 		<SimpleData name="average_dip">(80,70,90)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
 		<SimpleData name="dip_dir">S</SimpleData>
-		<SimpleData name="fz_name">Bunce Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bunce Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Grindlay et al. 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3234,7 +3234,7 @@
 		<SimpleData name="average_dip">(70,60,90)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
 		<SimpleData name="dip_dir">S</SimpleData>
-		<SimpleData name="fz_name">Bunce Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bunce Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Grindlay et al. 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3251,7 +3251,7 @@
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Bowin Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bowin Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Grindlay et al. 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3267,7 +3267,7 @@
 		<SimpleData name="accuracy">200000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Bowin Fault Zon</SimpleData>
+		<SimpleData name="fs_name">Bowin Fault Zon</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Grindlay et al. 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3282,7 +3282,7 @@
 		<SimpleData name="accuracy">200000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Bowin Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bowin Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Grindlay et al. 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3297,7 +3297,7 @@
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Bowin Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bowin Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Grindlay et al. 2005</SimpleData>
 	</SchemaData></ExtendedData>
@@ -3310,7 +3310,7 @@
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Bowin Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bowin Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Grindlay et al. 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3325,7 +3325,7 @@
 		<SimpleData name="accuracy">300000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Bowin Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bowin Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Grindlay et al. 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3342,7 +3342,7 @@
 		<SimpleData name="is_active">2</SimpleData>
 		<SimpleData name="dip_dir">S</SimpleData>
 		<SimpleData name="downthrown_side_id">N</SimpleData>
-		<SimpleData name="fz_name">Bowin Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bowin Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Reverse</SimpleData>
 		<SimpleData name="reference">Bathymetry</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3359,7 +3359,7 @@
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Bunce Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Bunce Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral</SimpleData>
 		<SimpleData name="reference">Grindlay et al. 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3375,7 +3375,7 @@
 		<SimpleData name="accuracy">80000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Great Northern Puerto Rico Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Great Northern Puerto Rico Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Dextral-Normal</SimpleData>
 		<SimpleData name="reference">Jansma and Mattioli 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3391,7 +3391,7 @@
 		<SimpleData name="accuracy">80000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Great Northern Puerto Rico Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Great Northern Puerto Rico Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Dextral-Normal</SimpleData>
 		<SimpleData name="reference">Jansma and Mattioli 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3407,7 +3407,7 @@
 		<SimpleData name="accuracy">100000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Great Northern Puerto Rico Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Great Northern Puerto Rico Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Dextral-Normal</SimpleData>
 		<SimpleData name="reference">Jansma and Mattioli 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3423,7 +3423,7 @@
 		<SimpleData name="accuracy">80000</SimpleData>
 		<SimpleData name="average_dip">(90,,)</SimpleData>
 		<SimpleData name="is_active">2</SimpleData>
-		<SimpleData name="fz_name">Great Northern Puerto Rico Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Great Northern Puerto Rico Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Dextral-Normal</SimpleData>
 		<SimpleData name="reference">Jansma and Mattioli 2005</SimpleData>
 		<SimpleData name="exposure_quality">2</SimpleData>
@@ -3711,7 +3711,7 @@
 		<SimpleData name="ogc_fid">239</SimpleData>
 		<SimpleData name="accuracy">500000</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
-		<SimpleData name="fz_name">Oriente Fault Zone</SimpleData>
+		<SimpleData name="fs_name">Oriente Fault Zone</SimpleData>
 		<SimpleData name="slip_type">Sinistral Transform</SimpleData>
 		<SimpleData name="reference">Leroy et al., 2015 Terra Nova</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -4067,7 +4067,7 @@
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
 		<SimpleData name="strike_slip_rate">(6,5,7)</SimpleData>
-		<SimpleData name="fz_name">Swan Islands Transform</SimpleData>
+		<SimpleData name="fs_name">Swan Islands Transform</SimpleData>
 		<SimpleData name="slip_type">Sinistral Transform</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
@@ -4081,7 +4081,7 @@
 		<SimpleData name="ogc_fid">183</SimpleData>
 		<SimpleData name="accuracy">1000000</SimpleData>
 		<SimpleData name="is_active">1</SimpleData>
-		<SimpleData name="fz_name">Swan Islands Transform</SimpleData>
+		<SimpleData name="fs_name">Swan Islands Transform</SimpleData>
 		<SimpleData name="slip_type">Sinistral Transform</SimpleData>
 		<SimpleData name="reference">Rogers and Mann, 2007</SimpleData>
 		<SimpleData name="epistemic_quality">1</SimpleData>
