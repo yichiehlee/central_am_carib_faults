@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Maurer
+    given-names: Jeremy
+    orcid: https://orcid.org/0000-0002-3624-5961
+title: "CCAF-DB Update"
+version: 1.0
+doi: https://doi.org/10.13117/central-america-caribbean-active-faults
+date-released: 2022-03-02
