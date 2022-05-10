@@ -1,7 +1,6 @@
 Active Faults of Central America and the Caribbean
 ==================================================
-
-https://doi.org/10.13117/central-america-caribbean-active-faults
+[![DOI](https://zenodo.org/badge/298313016.svg)](https://zenodo.org/badge/latestdoi/298313016)
 
 Central America and the Caribbean contain both rapidly-slipping faults and a 
 large pulation, leading to great seismic hazard and risk. As part of the 
